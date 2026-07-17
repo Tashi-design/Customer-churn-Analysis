@@ -77,7 +77,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,12,36,True,True,False,True,True,True,False,False
 0,31,91,True,False,True,False,False,True,False,False
 0,53,108,False,True,True,False,False,False,False,False
-0,1,20,True,False,True,False,False,False,False,False
 0,30,20,True,False,True,True,False,True,False,False
 0,46,75,False,False,True,False,True,False,False,False
 0,19,90,False,False,True,False,False,False,False,True
@@ -96,7 +95,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,20,False,False,True,True,True,False,True,False
 0,70,45,False,False,False,True,True,False,False,False
 0,27,90,False,False,True,True,False,True,False,False
-0,1,20,True,False,True,False,False,False,False,False
 1,13,95,True,False,True,False,False,False,True,True
 0,65,90,False,True,True,False,True,False,False,False
 0,14,70,False,True,True,False,False,False,False,False
@@ -351,7 +349,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,64,91,False,True,True,False,True,True,False,False
 1,29,84,True,False,True,True,False,False,True,False
 0,2,71,False,False,True,False,False,True,False,True
-0,1,20,True,False,True,False,True,False,False,False
 0,1,51,True,False,True,True,True,False,False,True
 0,45,25,False,True,True,False,False,False,False,False
 0,66,114,True,False,True,False,True,False,False,False
@@ -397,11 +394,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,3,86,True,False,True,True,False,False,True,False
 0,4,88,True,False,True,True,True,False,False,True
 0,34,90,True,True,True,False,True,False,False,False
-0,1,20,True,False,True,False,False,False,False,False
 1,15,96,False,False,True,False,False,True,False,True
 0,1,25,True,True,False,False,False,True,False,True
 0,3,51,False,False,True,False,False,True,False,True
-0,1,20,True,False,True,True,True,False,False,True
 0,3,20,False,False,True,False,False,True,False,False
 0,30,81,False,True,True,False,False,False,True,False
 0,5,54,False,False,True,False,False,False,True,True
@@ -676,7 +671,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,1,91,False,False,True,False,False,False,False,True
 0,26,105,False,True,True,True,True,False,True,False
 0,23,21,True,True,True,True,False,True,False,False
-0,2,20,False,False,True,False,False,False,False,False
 0,2,76,True,False,True,True,True,False,False,True
 1,40,104,False,False,True,True,True,False,False,False
 0,1,95,False,False,True,False,True,False,False,True
@@ -724,7 +718,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,13,100,False,False,True,True,True,False,False,True
 0,64,48,False,False,False,False,False,False,False,True
 0,8,45,True,True,False,True,True,False,False,False
-0,72,112,True,True,True,False,False,False,False,False
 0,1,75,True,False,True,True,False,False,True,True
 0,4,101,False,False,True,False,True,False,False,False
 0,1,50,True,True,True,True,True,False,False,False
@@ -753,7 +746,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,20,False,True,True,False,False,False,True,True
 0,1,20,False,False,True,False,False,False,False,True
 0,42,94,False,True,True,False,False,False,True,False
-0,1,20,True,False,True,False,True,False,False,False
 0,16,88,False,False,True,True,True,False,False,True
 0,11,45,True,False,True,False,False,False,True,False
 1,26,94,False,False,True,False,False,False,False,True
@@ -907,10 +899,8 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,64,False,True,False,True,True,False,False,False
 0,24,21,True,False,True,False,False,False,False,False
 0,19,25,False,False,True,False,False,True,False,False
-0,1,20,True,True,True,False,False,False,False,False
 0,5,76,False,False,True,True,True,False,True,False
 1,71,87,True,True,True,False,True,False,False,False
-0,72,89,True,False,True,True,True,False,False,False
 0,42,60,False,False,True,True,True,True,False,False
 0,14,56,True,False,True,False,False,True,False,False
 0,1,51,True,False,True,True,False,False,True,False
@@ -1003,7 +993,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,61,104,True,True,True,True,True,False,False,False
 0,6,59,True,False,True,False,True,False,False,False
 0,13,20,True,False,True,False,False,False,True,False
-0,2,19,False,False,True,False,False,False,False,False
 0,1,45,False,False,True,True,True,True,False,False
 0,2,70,False,False,True,True,True,False,False,False
 1,49,96,True,False,True,False,True,False,False,True
@@ -1054,7 +1043,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,16,50,False,False,True,True,False,True,False,True
 0,59,66,True,False,True,False,False,False,False,False
 1,8,70,True,False,True,True,True,False,False,False
-0,24,24,True,True,True,False,False,True,False,False
 0,7,20,True,True,True,False,True,False,False,False
 0,72,24,True,True,True,False,True,False,False,False
 0,44,88,False,False,True,False,True,False,False,False
@@ -1147,7 +1135,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,7,70,False,False,True,False,True,False,False,False
 0,11,20,False,True,True,False,False,True,False,True
 0,2,75,False,False,True,True,False,False,False,True
-0,72,110,False,False,True,True,True,False,False,False
 0,11,78,True,True,True,False,True,False,False,False
 1,5,91,True,False,True,False,False,False,False,True
 1,4,75,True,False,True,False,False,False,False,True
@@ -1191,7 +1178,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,71,109,True,True,True,False,True,False,False,False
 0,54,89,True,False,True,True,True,True,False,False
 0,15,76,False,True,True,True,False,False,True,False
-0,9,25,True,False,False,True,True,False,False,False
 1,50,105,True,False,True,False,False,False,True,False
 0,19,84,True,True,True,False,False,False,False,True
 1,70,104,False,False,True,False,False,False,False,False
@@ -1213,7 +1199,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,75,True,True,True,True,False,False,False,False
 0,72,25,True,True,True,False,True,False,False,False
 0,70,114,True,False,True,False,False,False,True,False
-0,1,20,False,False,True,True,True,False,False,True
 0,23,84,True,False,True,False,True,False,False,False
 0,8,75,False,False,True,False,False,False,True,False
 0,2,46,True,False,True,True,False,True,False,True
@@ -1304,13 +1289,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,54,111,False,False,True,False,False,False,True,True
 0,1,55,True,False,True,False,False,False,True,False
 0,12,33,False,True,False,True,True,False,False,False
-0,2,19,False,False,True,False,False,False,False,False
 0,48,71,True,False,True,True,True,True,False,False
 1,1,74,False,False,True,False,False,True,False,True
 0,71,65,True,False,True,True,True,False,False,False
-0,1,20,True,False,True,True,True,False,False,True
 0,56,25,True,True,True,True,True,False,False,False
-0,2,20,True,False,True,False,False,True,False,False
 1,66,81,False,False,True,True,False,True,False,True
 0,50,20,True,True,True,True,True,False,False,False
 1,63,90,False,False,True,True,True,True,False,False
@@ -1364,7 +1346,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,68,109,False,True,True,False,True,False,False,False
 0,1,19,True,False,True,True,False,False,True,False
 0,55,66,False,False,True,False,False,False,True,False
-0,1,45,False,False,True,False,False,False,False,False
 0,72,84,False,False,True,True,True,False,False,False
 0,6,45,False,False,False,True,True,False,False,False
 0,60,100,False,False,True,False,True,True,False,False
@@ -1426,7 +1407,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,36,53,False,False,False,False,False,True,False,False
 0,69,105,False,True,True,False,False,False,False,False
 0,71,81,False,False,True,True,True,True,False,False
-0,71,25,False,False,True,False,True,False,False,False
 0,35,53,True,False,False,True,False,False,False,False
 0,3,55,True,False,True,True,False,False,True,False
 1,72,110,True,False,True,True,False,True,False,False
@@ -1454,7 +1434,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,40,75,False,False,True,False,False,False,False,False
 0,13,76,False,False,True,False,True,False,False,False
 0,57,56,True,False,True,False,False,False,False,False
-0,1,75,False,False,True,True,True,False,True,True
 0,1,46,True,False,True,True,True,False,False,True
 0,46,54,False,False,True,True,True,True,False,True
 1,40,95,False,True,True,False,False,False,False,True
@@ -1511,7 +1490,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,27,104,False,False,True,False,True,False,False,True
 0,46,61,True,False,False,True,False,False,True,False
 0,18,20,False,False,True,False,False,False,True,False
-0,52,20,False,True,True,True,True,False,False,False
 0,43,56,False,True,True,False,False,False,False,True
 0,3,20,False,False,True,False,False,False,True,False
 0,4,45,True,False,True,True,False,True,False,False
@@ -1538,7 +1516,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,42,80,True,False,True,False,False,False,True,False
 1,16,85,False,False,True,True,False,False,True,True
 0,50,114,True,False,True,True,True,False,False,False
-0,1,25,False,False,False,False,False,False,False,True
 0,38,20,False,True,True,False,True,False,False,False
 1,24,80,True,True,True,False,False,False,True,False
 0,31,60,True,True,True,False,False,False,True,False
@@ -1551,7 +1528,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,84,False,True,True,False,False,False,False,False
 0,55,84,False,False,True,True,True,False,False,False
 0,48,111,True,False,True,True,False,False,True,False
-0,1,75,True,False,True,True,False,False,True,True
 0,36,97,False,True,True,False,True,False,False,True
 0,11,69,True,False,True,False,False,False,False,False
 0,1,85,False,False,True,False,True,True,False,False
@@ -1569,7 +1545,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,20,True,False,True,False,False,False,False,True
 0,1,71,True,True,True,True,True,False,False,True
 1,18,74,False,False,True,False,False,False,False,False
-0,13,20,True,False,True,False,False,False,True,False
 0,2,20,False,True,True,False,False,False,False,False
 0,70,65,True,False,True,False,False,False,False,False
 1,44,19,True,False,True,False,True,True,False,False
@@ -1590,7 +1565,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,69,59,False,True,True,True,True,True,False,False
 0,27,56,False,False,True,False,False,False,False,False
 0,1,49,False,False,True,False,False,False,True,False
-0,6,20,False,False,True,False,False,False,False,False
 0,7,25,False,False,False,False,True,False,False,False
 1,8,70,True,False,True,False,False,False,False,True
 0,15,70,True,True,True,True,False,False,True,False
@@ -1702,7 +1676,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,4,42,True,False,False,False,False,False,True,False
 0,63,20,False,True,True,True,True,True,False,False
 1,5,80,True,False,True,True,True,False,False,True
-0,6,20,False,False,True,False,False,False,False,False
 0,55,94,False,False,True,True,True,False,False,False
 0,51,76,True,True,True,True,True,False,False,False
 0,56,69,False,True,True,True,True,False,True,False
@@ -1770,7 +1743,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,52,111,False,False,True,False,False,True,False,True
 0,72,92,True,True,True,True,True,False,False,False
 0,55,97,True,False,True,True,True,False,False,True
-0,1,20,True,False,True,False,True,False,False,False
 0,6,20,False,False,True,False,True,False,False,False
 0,29,20,False,True,True,False,False,False,True,False
 0,42,48,True,True,False,False,False,False,False,False
@@ -1856,7 +1828,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,22,59,False,False,True,False,False,False,False,False
 0,1,70,True,True,True,False,False,False,True,False
 1,6,89,False,False,True,False,False,False,False,False
-0,1,20,True,False,True,False,False,False,True,True
 0,4,20,False,False,True,False,True,False,False,False
 0,60,106,False,False,True,False,True,False,False,True
 1,72,65,True,False,False,False,False,False,True,False
@@ -1927,14 +1898,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,70,106,False,True,True,True,False,False,True,False
 0,71,87,True,True,True,True,True,False,False,False
 0,71,85,True,True,True,True,True,False,False,False
-0,1,44,True,False,True,False,False,False,False,False
 0,1,55,True,False,True,False,True,False,False,True
 0,3,21,True,True,True,False,False,False,False,False
 0,40,93,False,False,True,True,True,True,False,False
 0,3,51,False,False,False,False,False,False,False,True
 0,67,26,False,False,True,False,False,True,False,False
 0,18,75,False,False,True,False,True,False,False,False
-0,20,20,False,True,True,False,False,True,False,False
 0,3,74,False,False,True,False,False,True,False,True
 0,71,116,True,False,True,False,False,False,True,False
 0,25,34,False,False,False,False,False,False,False,True
@@ -2007,7 +1976,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,16,73,False,True,True,True,True,True,False,False
 0,1,69,True,False,True,True,False,False,False,True
 0,1,25,True,False,False,False,True,False,False,True
-0,46,20,True,False,True,True,True,False,False,False
 0,69,98,True,False,True,True,False,False,True,False
 0,49,84,True,True,True,True,True,False,False,True
 0,53,55,True,False,False,True,False,False,False,False
@@ -2034,7 +2002,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,9,66,False,False,True,False,True,False,False,True
 0,50,82,False,False,True,False,False,False,False,False
 0,46,31,True,False,False,False,False,True,False,False
-0,3,45,False,False,True,False,False,False,False,False
 0,11,51,False,False,True,True,True,False,False,False
 0,37,70,True,False,True,False,True,False,False,False
 0,22,54,True,False,True,False,True,False,False,True
@@ -2128,7 +2095,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,31,99,False,True,True,False,False,False,False,True
 0,72,92,True,False,True,False,False,True,False,False
 0,51,44,True,False,False,True,False,False,False,False
-0,1,20,False,False,True,True,True,False,False,False
 0,60,115,False,True,True,True,True,True,False,False
 0,24,20,False,True,True,False,False,False,True,False
 0,2,81,False,False,True,False,False,True,False,True
@@ -2161,7 +2127,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,35,False,False,False,True,False,False,True,True
 0,8,71,True,False,True,False,False,False,True,False
 0,5,85,False,False,True,False,True,False,False,False
-0,9,20,True,False,True,True,True,False,False,False
 1,32,74,False,False,True,True,True,False,False,True
 0,72,84,True,True,True,False,True,False,True,False
 0,7,50,True,True,False,False,False,True,False,False
@@ -2174,7 +2139,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,1,25,True,False,False,False,False,False,False,True
 0,1,49,True,False,True,False,True,False,False,False
 0,38,92,True,False,True,False,False,True,False,False
-0,4,20,False,False,True,False,True,False,False,False
 0,31,99,True,False,True,False,False,False,True,False
 1,14,79,False,False,True,True,True,False,True,False
 1,71,110,False,False,True,False,False,False,True,False
@@ -2232,7 +2196,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,66,105,False,False,True,False,False,False,True,False
 0,43,86,True,False,True,False,True,False,False,False
 0,32,76,False,True,True,False,False,False,True,False
-0,1,20,True,False,True,False,False,False,False,False
 0,40,81,False,False,True,True,False,False,True,False
 0,41,98,False,False,True,True,False,True,False,False
 1,30,90,True,False,True,False,True,False,False,False
@@ -2269,7 +2232,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,23,21,True,False,True,True,True,False,True,False
 0,15,80,False,False,True,False,False,False,True,True
 0,29,67,False,False,True,False,True,False,False,False
-0,56,20,False,True,True,False,True,False,False,False
 0,11,55,False,False,True,False,True,False,False,False
 0,27,69,True,False,True,False,False,False,False,False
 0,1,70,True,False,True,False,False,True,False,True
@@ -2283,7 +2245,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,37,68,False,False,True,True,False,False,False,False
 0,35,50,False,True,True,True,True,False,False,False
 0,10,61,False,False,True,False,True,False,False,False
-0,1,20,True,False,True,False,False,False,False,True
 0,26,20,False,True,True,True,True,False,False,False
 0,72,82,True,False,True,False,False,False,False,False
 1,38,100,False,False,True,True,True,False,True,True
@@ -2302,7 +2263,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,56,True,False,True,True,True,True,False,False
 0,20,64,True,False,True,True,True,False,False,False
 0,58,60,True,False,True,True,False,False,True,True
-0,47,20,False,False,True,False,False,False,False,False
 1,72,93,True,False,True,False,True,True,False,False
 0,14,50,True,False,True,True,True,False,False,False
 0,62,55,False,True,True,False,True,False,False,False
@@ -2360,7 +2320,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,16,95,False,False,True,False,False,True,False,False
 0,34,100,False,False,True,True,False,False,False,False
 0,8,87,True,False,True,False,False,False,True,True
-0,72,25,False,False,True,False,False,False,False,False
 1,60,72,True,False,True,False,False,False,False,False
 0,72,116,True,False,True,False,False,False,False,False
 0,12,20,True,True,True,True,True,False,False,False
@@ -2387,7 +2346,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,18,20,False,True,True,False,False,False,False,True
 0,25,20,True,True,True,False,False,False,False,False
 0,46,64,False,False,True,True,True,False,False,False
-0,1,51,True,False,True,False,False,False,False,True
 0,1,48,False,False,True,True,False,True,False,False
 0,68,85,False,False,True,False,False,True,False,False
 0,18,44,True,False,True,True,False,False,False,False
@@ -2434,7 +2392,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,59,101,False,False,True,True,False,True,False,True
 1,10,92,True,False,True,False,False,True,False,True
 1,29,98,True,False,True,False,False,False,False,True
-0,5,20,True,False,True,False,False,False,False,False
 1,21,94,False,False,True,False,True,False,False,True
 0,62,104,False,False,True,False,False,False,False,False
 0,36,19,True,True,True,True,True,False,False,False
@@ -2443,7 +2400,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,31,False,False,False,False,True,False,False,True
 0,8,85,False,False,True,True,True,False,False,True
 1,3,31,False,False,False,True,True,False,True,False
-0,1,46,True,False,True,True,True,False,False,True
 0,12,99,False,False,True,False,True,False,False,True
 0,18,76,True,False,True,True,True,False,False,False
 0,20,25,False,False,False,False,True,False,False,False
@@ -2458,13 +2414,11 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,51,26,False,False,True,True,False,False,True,False
 0,7,81,False,False,True,False,True,True,False,False
 0,39,19,True,True,True,True,True,False,True,False
-0,72,80,False,True,True,False,False,False,False,False
 0,27,95,False,False,True,False,False,False,True,False
 0,56,86,True,True,True,False,False,True,False,False
 0,57,20,False,False,True,False,False,False,False,False
 0,17,107,True,False,True,True,True,False,False,False
 0,1,56,False,False,True,True,True,False,False,True
-0,35,20,True,True,True,False,False,False,False,False
 0,13,73,True,True,True,False,False,False,True,False
 0,69,20,False,True,True,True,True,True,False,False
 0,1,19,False,True,True,False,False,False,False,False
@@ -2520,7 +2474,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,68,71,False,False,True,True,True,False,False,False
 0,2,20,True,True,True,True,True,False,False,False
 1,8,74,True,False,True,False,False,False,True,True
-0,3,20,False,False,True,True,True,False,False,False
 0,13,98,True,False,True,True,False,True,False,True
 1,34,69,True,False,True,False,False,False,True,False
 0,72,66,False,True,False,False,False,False,True,False
@@ -2542,7 +2495,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,35,62,False,False,True,True,True,False,True,False
 0,71,105,True,True,True,False,False,False,True,False
 1,15,95,False,False,True,False,False,True,False,False
-0,2,20,False,False,True,True,True,False,False,False
 0,26,79,False,False,True,True,False,True,False,False
 1,3,88,False,True,True,False,False,True,False,True
 1,49,50,True,False,True,False,False,False,False,False
@@ -2554,7 +2506,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,62,92,False,False,True,True,False,True,False,False
 0,54,60,False,True,True,False,False,False,False,False
 0,15,102,True,True,True,False,False,False,False,False
-0,1,20,True,False,True,False,False,False,False,True
 1,1,25,False,False,False,True,True,False,False,True
 0,72,61,True,False,False,False,False,False,False,False
 0,30,79,False,False,True,False,False,True,False,False
@@ -2564,12 +2515,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,17,25,True,False,False,False,False,False,True,False
 0,40,20,False,False,True,True,True,False,False,False
 1,72,111,False,False,True,True,False,True,False,False
-0,2,20,True,False,True,True,False,False,True,False
 0,53,24,True,False,True,True,False,False,True,False
 0,71,116,True,False,True,True,True,False,False,False
 0,20,97,False,False,True,False,False,False,True,False
 0,7,55,True,False,True,True,False,False,True,False
-0,15,84,False,False,True,True,True,False,False,False
 0,72,24,False,True,True,False,True,False,True,False
 0,39,24,True,True,True,True,False,False,True,False
 0,45,26,False,False,True,False,False,False,False,False
@@ -2586,7 +2535,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,56,100,False,True,True,False,False,False,False,False
 0,28,55,False,False,True,False,False,False,True,False
 0,72,54,False,True,False,False,False,False,False,False
-0,1,50,True,False,True,False,False,True,False,False
 0,56,107,False,False,True,False,False,False,False,False
 0,70,79,True,False,True,True,True,False,False,False
 0,44,91,True,False,True,False,True,False,False,False
@@ -2619,7 +2567,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,55,50,True,False,False,False,False,False,False,False
 0,1,74,True,True,True,False,False,True,False,True
 0,10,19,False,False,True,True,True,False,False,False
-0,1,20,True,False,True,False,False,False,False,False
 1,14,96,True,False,True,False,False,False,True,False
 0,66,74,False,True,True,True,False,True,False,False
 0,72,106,False,True,True,True,True,False,False,False
@@ -2644,7 +2591,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,31,20,True,False,True,False,True,False,False,False
 0,3,74,False,False,True,True,True,False,False,True
 0,35,110,True,True,True,False,False,False,False,False
-0,15,20,False,False,True,False,False,False,False,False
 1,1,89,False,False,True,False,False,False,True,True
 0,42,106,True,False,True,False,False,False,False,True
 0,1,45,False,False,True,True,False,False,False,True
@@ -2687,7 +2633,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,66,103,False,False,True,True,True,False,True,False
 0,10,25,True,True,True,True,True,False,False,False
 0,35,102,True,False,True,False,True,False,False,True
-0,1,20,False,False,True,True,True,False,False,False
 0,29,49,True,False,True,True,True,False,True,False
 0,50,70,False,True,True,False,True,False,False,False
 0,1,75,False,False,True,False,False,True,False,True
@@ -2713,7 +2658,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,84,False,False,True,False,True,True,False,False
 1,43,56,False,False,False,False,False,False,False,True
 1,25,98,False,False,True,False,False,False,False,True
-0,2,20,False,False,True,True,True,False,True,False
 0,5,44,False,False,True,True,False,False,False,False
 0,15,60,True,True,True,False,False,False,False,False
 0,11,20,True,True,True,True,False,False,True,False
@@ -2748,7 +2692,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,69,True,False,True,False,False,False,True,True
 0,11,20,True,False,True,False,False,False,False,False
 0,3,65,True,False,True,False,False,False,False,False
-0,1,20,False,False,True,True,False,True,False,False
 0,68,20,True,True,True,False,False,True,False,False
 0,53,20,True,True,True,False,False,False,False,False
 1,60,101,False,False,True,False,False,False,False,False
@@ -2776,11 +2719,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,23,87,True,False,True,False,False,False,False,False
 1,6,80,True,False,True,True,False,True,False,False
 0,12,75,True,False,True,False,True,False,False,False
-0,10,21,False,False,True,False,False,False,False,False
 0,12,85,True,False,True,False,True,True,False,False
 0,22,68,True,True,True,True,True,False,False,True
 0,47,75,False,False,True,False,False,True,False,False
-0,24,99,False,False,True,False,False,False,False,True
 0,34,64,False,False,True,True,False,False,True,True
 1,9,21,True,False,True,True,True,False,False,False
 0,28,75,True,True,True,False,True,False,False,True
@@ -2792,7 +2733,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,65,90,True,False,True,True,True,False,True,True
 0,28,54,False,False,True,False,False,False,True,False
 0,12,84,True,False,True,False,False,False,False,True
-1,1,70,False,False,True,True,True,False,False,True
 0,27,80,True,True,True,False,False,False,False,True
 0,66,25,True,True,True,True,True,False,False,False
 0,72,60,False,False,True,True,True,False,False,False
@@ -2859,7 +2799,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,41,78,False,True,True,False,False,False,True,False
 1,71,83,False,False,True,False,False,False,False,False
 0,72,111,True,False,True,True,False,False,True,False
-0,72,110,False,False,True,True,True,False,False,False
 1,12,84,True,False,True,False,True,False,False,True
 0,55,64,True,False,True,False,True,False,False,False
 0,72,104,True,False,True,False,False,False,False,False
@@ -2977,7 +2916,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,10,95,True,True,True,False,False,False,False,True
 0,9,60,False,False,True,True,False,False,False,False
 0,24,69,False,False,True,False,False,False,False,False
-0,18,20,True,False,True,False,True,False,False,False
 0,72,116,False,True,True,False,False,True,False,False
 0,64,87,False,True,True,True,False,False,True,False
 0,2,19,True,False,True,False,False,False,True,False
@@ -3052,7 +2990,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,67,54,False,True,False,False,True,False,False,False
 0,71,82,False,True,True,True,False,False,True,False
 0,59,65,True,False,True,True,False,False,False,False
-0,1,20,True,False,True,True,True,False,True,False
 0,57,75,False,False,True,True,True,True,False,False
 0,1,59,False,True,True,True,True,False,False,True
 0,9,99,True,False,True,True,False,False,True,False
@@ -3063,14 +3000,11 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,22,95,True,False,True,True,True,False,False,False
 0,35,25,True,True,True,False,False,False,False,False
 0,12,80,True,False,True,True,True,False,False,False
-0,28,20,False,True,True,False,True,False,False,False
-0,1,20,True,False,True,False,False,False,False,False
 0,67,104,True,False,True,True,True,False,False,True
 0,72,98,True,True,True,False,True,False,False,False
 0,38,111,True,False,True,True,True,True,False,False
 0,14,49,True,False,True,False,False,False,False,False
 0,47,87,True,False,True,False,False,False,False,False
-0,63,25,True,True,True,True,False,False,True,False
 0,37,29,False,False,False,True,False,True,False,True
 1,1,74,False,False,True,False,False,False,True,True
 0,37,20,False,False,True,True,False,False,False,False
@@ -3103,7 +3037,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,2,94,True,False,True,True,True,False,False,True
 0,70,98,True,True,True,False,False,False,False,True
 0,1,21,False,True,True,False,False,False,False,True
-0,2,20,True,False,True,True,True,False,False,False
 0,11,91,True,True,True,False,False,False,False,False
 0,13,97,False,False,True,False,False,False,True,True
 0,60,20,True,True,True,True,True,False,True,False
@@ -3147,7 +3080,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,29,20,False,False,True,False,True,False,False,False
 0,25,25,True,False,True,False,True,False,False,True
 0,68,54,False,False,True,False,True,False,False,False
-0,2,70,True,False,True,False,True,False,False,False
 0,42,78,False,True,True,False,False,False,False,True
 0,6,20,False,True,True,False,False,False,False,False
 0,18,101,True,False,True,False,True,False,False,False
@@ -3206,7 +3138,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,29,25,False,False,False,False,False,True,False,True
 0,51,95,False,True,True,True,True,False,True,False
 0,58,70,True,False,True,False,False,False,False,False
-0,72,108,False,False,True,False,False,False,False,False
 0,4,39,True,True,False,True,False,True,False,False
 0,64,111,False,True,True,True,True,False,False,False
 1,68,80,True,False,True,False,False,True,False,False
@@ -3226,7 +3157,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,8,94,False,False,True,True,False,False,False,True
 1,3,25,False,False,False,False,False,False,False,True
 1,55,90,False,False,True,False,False,False,False,False
-0,1,20,False,False,True,False,False,False,False,False
 1,16,72,True,False,True,True,True,True,False,True
 0,39,80,True,True,True,True,True,False,False,True
 0,10,95,False,False,True,False,False,False,True,True
@@ -3297,7 +3227,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,19,20,False,True,True,True,False,False,True,False
 0,71,85,True,True,True,False,False,False,False,False
 0,36,20,True,False,True,True,False,False,True,False
-0,16,20,True,False,True,False,False,False,False,False
 0,25,25,False,False,True,True,True,True,False,True
 0,59,81,False,False,True,False,False,True,False,False
 0,71,24,True,True,True,False,True,False,False,False
@@ -3321,7 +3250,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,116,False,False,True,False,False,False,False,False
 0,16,85,False,False,True,False,False,False,False,True
 0,2,80,True,False,True,True,False,False,True,False
-0,1,20,False,False,True,True,True,False,False,True
 0,68,71,True,False,True,False,False,False,False,False
 1,33,25,True,False,True,False,True,False,False,False
 0,61,19,False,True,True,True,True,False,False,True
@@ -3331,19 +3259,15 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,21,86,False,False,True,False,False,False,False,True
 1,62,105,False,False,True,True,True,False,False,False
 0,29,25,False,False,True,False,False,False,True,False
-1,70,105,True,False,True,False,False,False,False,False
 0,38,101,True,True,True,False,False,False,True,False
 1,31,74,False,False,True,True,True,False,False,True
-0,1,70,True,False,True,True,False,False,False,True
 0,1,44,False,False,True,False,False,False,True,True
 0,71,66,True,True,True,True,True,False,False,False
 0,4,20,True,True,True,False,True,False,False,False
-0,2,81,False,False,True,True,False,False,True,True
 0,4,64,False,False,True,True,True,False,False,False
 0,69,99,False,False,True,False,False,False,False,False
 0,64,81,True,False,True,False,False,True,False,False
 0,60,79,True,False,True,False,False,True,False,False
-1,1,70,False,False,True,True,True,False,False,True
 0,63,105,True,False,True,True,True,True,False,False
 0,35,19,True,False,True,True,True,False,False,False
 1,17,76,True,False,True,False,False,False,True,True
@@ -3376,12 +3300,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,64,74,False,False,True,False,False,False,False,False
 0,72,103,False,True,True,False,False,False,True,False
 1,8,84,False,False,True,False,False,False,False,True
-0,72,116,True,False,True,True,False,False,True,False
 0,1,46,True,False,True,False,False,False,True,False
 0,69,95,True,True,True,False,False,False,False,False
 0,56,80,False,False,True,True,True,False,False,False
 0,9,65,True,False,True,False,False,True,False,False
-0,1,70,True,False,True,True,False,False,True,True
 0,59,80,False,False,True,True,True,False,False,False
 0,12,80,False,False,True,False,True,False,False,False
 0,4,85,True,True,True,True,True,False,False,True
@@ -3410,7 +3332,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,48,26,True,True,True,False,False,False,False,False
 1,7,65,False,False,True,True,True,False,True,False
 0,44,49,False,False,False,False,False,False,False,False
-0,2,76,False,False,True,True,True,False,False,True
 0,4,77,False,False,True,False,False,False,True,True
 0,37,99,True,False,True,False,True,False,False,True
 0,13,19,False,False,True,False,False,False,True,False
@@ -3423,7 +3344,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,22,51,False,False,False,True,True,False,True,False
 0,35,89,True,False,True,False,False,False,True,False
 0,4,21,False,False,True,False,False,False,False,True
-0,1,20,True,False,True,False,True,False,False,False
 0,36,21,True,False,True,False,True,True,False,False
 0,25,54,True,True,True,False,True,False,False,False
 0,3,71,False,False,True,True,True,False,False,False
@@ -3437,7 +3357,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,5,49,True,True,True,False,True,False,False,False
 1,44,30,True,False,False,False,False,True,False,True
 1,16,96,False,False,True,True,False,True,False,True
-0,20,64,True,False,True,True,True,False,False,False
 0,30,106,False,False,True,True,True,False,True,False
 0,55,45,False,False,True,True,False,False,True,False
 1,61,65,False,True,True,False,False,True,False,False
@@ -3446,7 +3365,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,10,70,True,False,True,False,False,True,False,True
 0,40,55,True,True,True,True,True,True,False,True
 0,51,79,False,True,True,True,True,True,False,False
-0,72,106,True,True,True,True,True,True,False,False
 0,64,99,True,False,True,False,False,False,False,False
 0,72,26,True,False,True,True,True,True,False,False
 0,53,20,False,True,True,True,True,True,False,False
@@ -3464,7 +3382,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,28,50,False,True,True,True,True,False,False,False
 0,3,30,True,False,False,True,True,False,False,False
 1,50,75,True,True,True,False,True,False,False,False
-0,1,70,True,False,True,False,False,False,False,True
 0,2,95,True,False,True,True,False,False,True,True
 0,2,71,True,False,True,False,True,False,False,False
 0,70,110,False,False,True,False,False,False,False,True
@@ -3473,7 +3390,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,91,True,False,True,False,False,True,False,True
 0,13,30,False,True,False,True,True,False,False,False
 0,10,98,False,False,True,True,True,False,False,True
-0,55,20,False,True,True,True,True,False,False,False
 0,7,71,False,False,True,False,False,True,False,True
 0,3,19,True,False,True,True,True,True,False,False
 0,46,34,True,False,False,True,True,False,False,False
@@ -3491,7 +3407,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,33,24,False,True,True,True,False,True,False,True
 0,17,24,False,True,True,False,False,False,False,True
 0,49,60,True,True,True,False,False,True,False,False
-0,72,82,True,False,True,False,False,False,False,False
 1,17,100,True,False,True,False,False,False,False,True
 0,15,65,True,True,True,True,True,False,False,False
 0,8,20,True,True,True,True,True,False,False,False
@@ -3520,7 +3435,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,34,63,False,False,True,False,False,False,False,True
 0,49,66,True,False,True,True,True,False,False,False
 0,23,20,False,True,True,False,False,False,False,False
-0,71,20,True,True,True,False,False,True,False,False
 0,46,85,False,True,True,False,False,True,False,False
 0,50,108,True,True,True,True,True,False,True,False
 0,1,45,True,False,False,True,True,False,False,True
@@ -3571,23 +3485,19 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,21,86,False,False,True,False,False,True,False,False
 0,13,94,False,False,True,False,False,False,True,True
 0,51,75,True,False,True,False,False,False,False,False
-0,25,21,True,False,True,False,True,False,False,False
 0,71,20,False,True,True,False,False,False,False,False
-0,3,75,False,False,True,False,False,False,False,False
 0,1,80,True,False,True,False,False,False,False,True
 1,65,99,True,False,True,True,False,True,False,False
 0,65,72,True,True,True,False,False,True,False,True
 0,64,24,False,False,True,False,False,False,False,False
 0,38,71,True,False,True,True,True,False,False,False
 0,56,110,False,False,True,False,False,False,False,False
-0,72,20,False,True,True,False,False,False,True,False
 0,9,69,False,True,True,False,True,False,False,False
 0,38,20,False,False,True,False,False,True,False,False
 0,44,55,True,True,True,False,True,False,False,False
 0,71,80,True,False,True,False,True,True,False,False
 0,57,100,False,False,True,False,False,False,False,False
 0,43,49,False,False,False,True,True,False,False,True
-0,17,20,False,False,True,True,False,False,False,False
 0,7,87,True,False,True,True,False,False,False,True
 0,2,80,False,False,True,False,False,True,False,True
 0,50,25,True,False,True,False,True,False,False,False
@@ -3630,7 +3540,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,57,20,True,True,True,False,False,False,False,False
 0,1,74,False,True,True,True,False,False,True,True
 0,1,92,False,False,True,False,False,False,False,True
-0,37,20,False,False,True,False,False,False,False,False
 1,72,65,True,True,False,True,True,False,False,False
 0,31,91,False,True,True,False,True,False,False,True
 0,52,59,False,False,True,True,True,False,True,False
@@ -3648,7 +3557,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,11,60,True,False,True,False,True,True,False,False
 0,9,85,False,False,True,False,True,False,False,False
 1,10,79,True,False,True,True,True,True,False,True
-0,1,20,True,False,True,True,False,False,True,False
 1,26,85,False,False,True,True,False,False,True,True
 0,7,44,True,False,True,False,False,False,True,False
 0,46,104,False,False,True,False,False,False,False,False
@@ -3701,7 +3609,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,62,100,False,True,True,False,False,True,False,True
 1,72,90,False,True,True,False,False,False,False,False
 0,42,108,True,False,True,True,False,False,True,False
-0,2,70,False,False,True,True,True,False,False,False
 1,72,26,False,False,True,False,False,True,False,False
 0,30,25,False,True,True,True,False,True,False,False
 0,40,97,True,False,True,True,False,False,True,True
@@ -3737,12 +3644,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,41,95,True,False,True,True,True,False,False,False
 0,25,100,False,False,True,False,False,True,False,True
 0,22,89,True,True,True,True,False,False,False,False
-0,72,25,False,False,True,False,False,False,False,False
 0,24,25,True,False,True,True,False,True,False,False
 0,24,60,True,False,True,False,True,False,False,False
 1,64,75,False,False,True,True,True,False,True,False
 0,3,108,True,False,True,True,True,False,False,False
-0,1,50,True,False,True,False,False,False,False,False
 1,63,109,True,False,True,False,True,True,False,False
 0,13,53,False,True,True,False,True,False,False,False
 0,20,55,True,False,False,False,True,False,False,False
@@ -3750,7 +3655,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,38,20,False,True,True,False,False,False,True,False
 1,1,70,True,False,True,True,True,False,False,True
 0,67,44,True,False,False,False,False,True,False,False
-0,55,97,True,False,True,True,True,False,False,True
 0,53,64,True,True,True,False,False,False,True,False
 0,29,26,False,True,True,False,False,False,False,False
 0,14,56,False,False,True,False,False,False,False,False
@@ -3781,7 +3685,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,51,86,True,False,True,True,False,False,True,False
 0,1,44,True,False,True,False,False,False,True,True
 0,3,90,True,False,True,False,False,True,False,False
-0,1,20,True,True,True,True,True,False,False,False
 0,15,46,False,False,False,True,True,False,False,False
 0,52,80,True,False,True,True,True,False,False,False
 0,56,100,True,False,True,True,True,False,False,True
@@ -3792,7 +3695,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,26,True,True,True,False,False,True,False,False
 0,40,106,False,False,True,False,True,False,False,False
 1,66,100,True,True,True,False,True,False,False,True
-0,1,20,True,True,True,False,False,False,False,False
 1,19,105,False,False,True,False,False,False,False,False
 0,42,20,True,False,True,False,True,False,False,False
 0,34,98,True,True,True,True,False,False,False,False
@@ -3817,7 +3719,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,64,102,True,False,True,True,True,False,False,False
 0,71,111,False,False,True,True,False,False,True,False
 0,63,69,True,False,True,False,False,False,True,False
-0,1,20,True,False,True,True,True,False,True,False
 0,64,104,False,True,True,False,False,True,False,False
 0,45,76,True,False,True,True,True,False,False,False
 0,4,20,False,False,True,True,True,False,False,False
@@ -3834,7 +3735,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,4,95,True,False,True,True,False,True,False,False
 0,28,83,False,True,True,True,False,False,False,False
 0,37,45,False,False,False,False,False,True,False,False
-0,8,20,True,False,True,False,False,True,False,False
 0,1,49,True,True,True,True,False,True,False,False
 0,25,20,False,True,True,False,True,True,False,False
 0,26,98,True,False,True,True,True,False,False,True
@@ -3855,7 +3755,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,68,86,False,False,True,True,True,False,False,False
 0,10,86,True,False,True,True,True,False,False,True
 0,53,95,False,False,True,False,False,False,False,True
-0,66,89,False,False,True,True,True,False,False,False
 0,27,19,True,False,True,False,False,False,False,False
 1,34,80,False,True,True,False,False,True,False,True
 1,11,85,False,False,True,True,True,True,False,True
@@ -3878,7 +3777,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,40,64,False,False,True,True,True,False,False,False
 0,43,66,True,False,True,False,False,True,False,False
 0,1,30,False,False,False,True,True,False,True,False
-0,9,70,True,False,True,False,False,False,False,False
 1,1,70,False,False,True,True,False,True,False,True
 0,19,20,False,False,True,True,False,False,True,False
 0,9,75,False,False,True,False,False,False,False,False
@@ -3909,10 +3807,8 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,26,82,False,False,True,False,True,False,False,False
 0,1,80,False,False,True,True,True,False,True,True
 0,62,114,False,False,True,False,False,False,True,False
-0,17,20,False,False,True,True,True,False,False,False
 0,36,95,True,False,True,False,False,False,False,False
 0,32,20,True,True,True,True,True,False,True,False
-0,2,20,True,False,True,True,False,False,True,False
 0,30,19,False,True,True,False,False,True,False,False
 0,21,106,True,False,True,False,True,True,False,True
 0,66,106,True,False,True,False,True,False,False,True
@@ -3949,7 +3845,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,45,True,False,True,False,False,False,False,True
 0,18,68,True,False,True,False,True,True,False,False
 0,51,60,False,False,True,True,False,False,False,False
-0,9,20,False,False,True,True,True,False,False,False
 0,15,100,True,False,True,True,False,False,True,False
 0,72,106,True,True,True,True,True,False,True,False
 0,12,19,True,True,True,False,True,False,False,False
@@ -3980,7 +3875,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,22,20,False,True,True,False,True,False,False,False
 0,71,101,True,True,True,True,False,False,True,False
 1,30,101,False,True,True,True,True,False,False,False
-0,1,45,False,False,True,True,True,False,False,True
 0,20,19,False,False,True,True,False,False,True,False
 0,1,56,True,False,True,False,False,False,False,False
 0,68,85,False,True,True,True,False,False,True,False
@@ -4002,7 +3896,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,9,83,False,False,True,True,True,False,False,True
 0,5,81,False,True,True,True,True,False,True,False
 0,67,86,False,False,True,True,False,False,True,False
-0,1,70,True,False,True,False,False,False,True,True
 0,4,75,True,False,True,True,False,False,True,True
 0,1,70,False,False,True,True,False,False,False,True
 0,31,20,False,True,True,False,False,False,True,True
@@ -4053,9 +3946,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,43,94,False,False,True,True,True,False,True,False
 1,21,87,True,False,True,False,False,False,False,False
 0,61,106,False,False,True,True,False,False,False,False
-0,72,25,False,False,True,False,False,False,False,False
 0,6,25,True,True,True,False,False,False,True,False
-0,47,20,False,True,True,False,False,False,False,False
 0,24,20,False,False,True,True,False,False,True,False
 0,39,81,True,False,True,True,True,False,False,False
 0,65,25,False,True,True,False,False,False,False,False
@@ -4080,7 +3971,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,47,60,False,True,False,False,False,True,False,False
 1,47,86,True,False,True,True,True,False,False,True
 0,36,19,False,True,True,True,False,False,True,False
-0,9,20,True,False,True,False,True,False,False,False
 0,61,101,False,True,True,True,False,True,False,False
 0,72,79,True,False,True,True,True,False,False,False
 0,35,55,False,True,True,False,True,False,False,False
@@ -4091,7 +3981,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,26,94,True,False,True,True,True,False,False,False
 0,72,80,False,False,True,False,False,False,False,False
 0,37,65,False,False,True,True,False,False,False,False
-0,7,75,False,False,True,False,False,False,False,True
 0,7,74,True,False,True,True,True,False,False,True
 0,69,79,True,False,True,False,True,False,False,True
 0,8,20,True,True,True,False,True,False,False,False
@@ -4110,7 +3999,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,46,False,False,True,False,False,True,False,True
 1,71,89,False,False,True,False,False,False,False,False
 1,56,68,False,False,True,False,False,False,True,False
-0,3,19,False,True,True,False,False,True,False,False
 0,11,65,True,True,True,True,True,False,False,False
 0,60,81,False,False,True,False,False,True,False,False
 1,42,105,False,False,True,False,False,False,True,False
@@ -4143,14 +4031,11 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,112,False,False,True,False,False,False,False,False
 0,60,50,False,True,False,False,False,True,False,False
 0,0,20,True,True,True,True,True,False,False,False
-0,2,20,False,False,True,True,True,False,False,False
 0,55,90,False,False,True,False,False,False,False,False
 0,56,99,False,False,True,True,True,False,False,False
-0,71,85,True,True,True,True,False,False,True,False
 0,2,62,True,False,True,False,False,False,False,True
 0,64,105,False,False,True,False,False,False,True,False
 0,42,74,False,False,True,False,True,False,False,True
-1,25,89,True,False,True,False,False,False,False,True
 0,5,49,False,True,True,True,False,False,True,False
 0,72,117,True,True,True,False,False,True,False,False
 1,33,81,False,False,True,True,True,False,False,True
@@ -4261,14 +4146,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,15,20,True,True,True,False,False,False,False,True
 1,21,104,True,False,True,False,False,True,False,False
 0,33,21,True,True,True,False,False,True,False,False
-0,1,21,False,False,True,False,False,False,False,False
 0,58,20,False,True,True,True,True,False,True,False
 0,10,65,False,False,True,True,True,False,False,False
 0,33,24,False,True,True,True,True,False,False,False
 1,1,25,False,False,False,True,True,True,False,True
 0,1,46,False,True,True,True,False,False,True,True
 0,42,73,True,True,True,False,True,True,False,False
-0,1,20,True,True,True,True,True,False,False,False
 0,38,20,True,False,True,True,False,False,True,False
 0,5,51,False,False,True,False,False,True,False,True
 0,65,110,True,False,True,True,False,False,True,False
@@ -4321,7 +4204,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,6,20,False,False,True,True,True,True,False,False
 0,16,63,False,False,True,False,False,True,False,False
 0,39,30,False,True,False,True,True,False,False,True
-0,4,20,True,True,True,False,True,False,False,False
 0,59,107,True,False,True,True,True,True,False,True
 0,69,84,False,True,True,False,False,False,False,False
 0,24,70,True,True,True,False,False,False,False,False
@@ -4368,7 +4250,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,72,117,False,False,True,True,True,False,False,False
 0,6,71,False,False,True,False,False,True,False,False
 0,71,115,False,True,True,False,True,False,False,False
-0,15,20,True,False,True,False,False,False,False,False
 1,57,70,False,False,True,False,False,True,False,False
 0,68,25,True,False,True,True,False,True,False,False
 0,13,31,False,False,False,False,False,False,False,True
@@ -4378,7 +4259,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,36,95,True,True,True,False,True,True,False,False
 0,63,85,True,False,True,False,True,False,False,False
 0,39,55,True,True,False,False,False,True,False,False
-0,3,20,False,False,True,True,True,False,True,False
 0,32,20,True,False,True,False,False,False,True,False
 1,4,70,True,False,True,True,True,False,False,False
 1,32,93,False,False,True,True,False,False,False,True
@@ -4386,7 +4266,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,5,81,False,False,True,False,True,False,False,True
 0,9,20,False,True,True,False,False,True,False,False
 0,31,81,False,True,True,False,False,False,True,False
-0,1,50,False,False,True,False,False,False,False,False
 0,1,81,True,True,True,False,False,False,True,False
 0,2,100,True,False,True,True,True,False,False,False
 0,35,23,False,False,True,False,False,False,False,False
@@ -4395,7 +4274,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,12,49,True,False,True,True,True,False,False,False
 0,56,24,True,True,True,True,False,False,False,False
 0,72,25,True,True,True,True,True,False,False,False
-0,1,69,False,False,True,False,False,False,False,True
 0,1,85,True,False,True,True,True,False,True,True
 0,26,90,False,False,True,True,False,False,True,False
 0,13,49,False,False,False,True,True,False,False,False
@@ -4410,7 +4288,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,15,25,False,False,True,True,False,False,True,False
 0,41,109,False,True,True,False,False,False,True,False
 1,20,71,True,False,True,False,True,False,False,True
-0,32,19,False,False,True,False,False,False,False,False
 0,1,50,True,False,True,True,False,True,False,True
 0,72,83,False,True,True,False,True,False,False,False
 0,34,85,False,True,True,False,False,False,False,False
@@ -4423,18 +4300,14 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,41,99,False,False,True,True,True,False,False,False
 0,61,25,False,False,True,False,True,True,False,False
 0,29,80,True,False,True,False,False,False,False,True
-0,48,20,False,True,True,False,False,False,False,False
-0,1,20,True,False,True,True,False,False,False,True
 0,64,25,True,True,True,True,True,True,False,False
 0,58,21,True,False,True,False,True,False,True,False
 0,29,85,True,False,True,True,True,False,False,False
 1,7,95,True,False,True,True,False,False,True,True
 0,67,111,True,False,True,False,False,False,False,False
-0,5,70,True,False,True,False,True,False,False,True
 0,27,53,False,False,True,False,False,False,True,False
 0,4,49,True,False,False,True,True,False,False,True
 0,1,20,True,False,True,True,True,False,False,False
-0,4,20,False,True,True,True,True,False,False,False
 0,6,20,True,True,True,False,False,False,False,False
 0,1,34,True,True,False,True,True,False,True,False
 0,49,84,True,False,True,True,False,False,True,True
@@ -4454,7 +4327,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,8,96,False,False,True,False,False,False,True,True
 0,25,56,True,False,True,True,True,False,False,False
 1,37,101,True,False,True,False,False,False,False,True
-0,1,20,True,True,True,False,False,False,False,False
 0,4,24,True,True,True,True,False,False,True,False
 0,10,34,True,False,False,False,True,False,False,True
 0,13,35,False,False,False,True,True,False,False,False
@@ -4469,7 +4341,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,19,40,False,False,False,True,False,True,False,False
 0,45,108,True,False,True,True,False,False,False,False
 1,68,100,False,False,True,False,True,True,False,True
-0,1,20,False,False,True,False,False,False,False,True
 0,32,90,False,True,True,True,True,False,False,False
 0,59,35,True,True,False,False,True,False,True,False
 0,45,20,True,True,True,True,True,False,False,False
@@ -4485,7 +4356,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,5,56,True,False,True,True,False,False,True,False
 0,31,79,True,False,True,False,True,False,False,False
 0,1,75,False,False,True,True,False,False,True,True
-0,20,89,True,False,True,True,True,False,False,True
 0,19,20,False,True,True,True,False,True,False,False
 0,72,113,True,True,True,False,True,False,False,False
 0,11,25,False,True,True,True,False,True,False,False
@@ -4511,7 +4381,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,60,96,True,False,True,False,True,False,False,True
 0,1,51,True,True,True,True,False,False,False,True
 1,1,71,False,False,True,False,False,True,False,False
-0,1,20,False,False,True,True,False,False,True,True
 0,8,43,True,True,True,True,False,False,True,False
 1,5,90,True,False,True,False,True,False,False,True
 0,1,69,True,False,True,False,True,False,False,True
@@ -4527,7 +4396,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,46,81,True,True,True,False,True,False,False,False
 0,20,20,True,False,True,False,True,False,False,False
 1,32,94,True,True,True,False,True,False,True,False
-0,1,20,True,False,True,False,True,False,False,False
 0,67,85,False,False,True,False,False,False,False,False
 1,29,99,False,False,True,False,False,False,True,True
 0,72,23,False,True,True,True,True,False,False,False
@@ -4555,7 +4423,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,15,19,True,False,True,True,True,False,True,False
 1,3,75,False,False,True,False,True,False,False,False
 0,65,60,False,False,False,False,False,False,True,False
-0,27,20,True,False,True,False,True,False,False,False
 1,1,74,True,False,True,False,False,True,False,True
 0,35,21,True,False,True,True,True,False,False,False
 0,2,47,True,False,True,False,False,False,False,False
@@ -4577,14 +4444,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,74,False,True,True,True,False,False,False,False
 0,70,79,True,True,True,False,False,False,False,False
 0,9,20,True,False,True,True,True,True,False,False
-0,2,20,False,False,True,False,False,False,False,False
 0,28,60,False,False,True,True,True,False,False,False
 0,72,86,True,False,True,False,False,False,True,False
 0,42,40,True,False,False,False,False,False,True,False
 0,11,102,False,False,True,True,False,False,True,True
 0,61,50,False,True,True,True,False,False,True,False
 0,63,76,True,True,True,True,False,False,True,False
-0,1,46,True,False,True,True,True,False,False,True
 0,23,48,True,True,True,True,True,False,True,True
 0,61,20,False,False,True,False,True,False,False,False
 0,7,20,True,False,True,True,True,False,False,False
@@ -4599,12 +4464,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,70,88,True,False,True,False,True,False,False,False
 0,8,66,True,False,True,True,False,False,False,False
 0,46,25,False,True,True,False,False,True,False,False
-0,6,20,True,True,True,True,True,False,True,False
 0,68,84,False,True,True,True,True,False,False,False
 0,31,21,True,True,True,True,False,False,True,False
-0,23,20,False,True,True,False,False,False,False,False
 0,6,84,False,False,True,False,True,False,False,True
-0,1,51,True,False,True,True,False,False,True,True
 0,2,79,True,False,True,True,False,False,True,False
 1,43,94,True,False,True,False,False,False,False,False
 0,46,20,True,True,True,True,False,False,True,False
@@ -4613,12 +4475,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,28,93,True,True,True,True,False,False,True,False
 0,65,92,True,False,True,False,False,False,True,True
 0,51,83,True,False,True,True,True,False,False,False
-0,1,21,True,False,True,False,False,False,False,False
 0,1,75,True,True,True,True,False,False,True,True
 0,24,20,False,False,True,False,False,False,False,False
 0,48,35,False,False,False,False,False,False,False,True
 1,1,80,True,False,True,False,True,False,False,True
-0,2,54,False,False,True,True,True,False,False,False
 0,27,55,True,False,True,True,True,False,True,False
 0,1,50,True,True,True,False,False,False,False,True
 0,70,58,False,True,False,False,True,False,False,False
@@ -4629,7 +4489,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,20,False,False,True,True,True,True,False,False
 0,62,25,True,True,True,False,False,False,False,False
 0,36,20,False,True,True,False,False,False,False,False
-0,1,20,True,False,True,True,False,False,False,True
 0,72,105,True,False,True,True,True,False,False,False
 0,70,79,True,False,True,False,False,False,False,False
 0,1,54,True,False,True,True,False,False,True,True
@@ -4643,7 +4502,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,19,True,True,True,False,False,False,False,False
 0,66,80,True,True,True,False,False,False,True,False
 0,3,20,False,False,True,True,False,False,False,True
-0,72,26,False,False,True,False,False,False,False,False
 0,72,67,False,True,True,True,True,False,False,False
 1,13,45,False,False,False,False,True,False,False,False
 0,24,86,True,False,True,False,False,False,False,False
@@ -4723,16 +4581,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,34,78,True,True,True,False,False,False,False,True
 0,66,47,False,False,False,False,False,True,False,False
 0,41,21,False,False,True,False,True,False,False,False
-0,16,19,False,True,True,True,False,True,False,False
 0,65,105,True,False,True,True,False,False,False,False
-0,27,20,True,False,True,False,False,False,True,False
 0,68,106,True,True,True,False,False,False,True,False
 1,23,106,True,False,True,False,False,False,True,True
 0,33,20,True,False,True,False,False,False,True,False
 1,25,90,True,False,True,True,True,False,False,True
 0,72,114,True,True,True,False,False,True,False,False
-0,39,20,True,False,True,False,False,False,True,False
-0,62,20,True,True,True,False,True,False,False,False
 0,53,20,True,True,True,False,False,True,False,True
 0,53,100,False,False,True,True,False,True,False,False
 0,18,82,True,False,True,True,False,False,True,True
@@ -4777,7 +4631,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,20,81,False,False,True,False,True,False,False,False
 1,65,54,False,False,False,False,True,False,False,False
 0,19,20,True,True,True,False,False,False,False,False
-0,36,20,True,False,True,True,False,False,True,False
 0,71,109,True,False,True,False,True,False,False,True
 1,1,25,False,False,False,False,True,False,False,True
 0,33,68,True,False,True,False,False,False,True,True
@@ -4834,7 +4687,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,18,70,False,False,True,False,False,True,False,False
 0,39,100,False,True,True,False,False,True,False,False
 0,60,95,True,True,True,True,False,False,True,False
-1,1,40,True,False,False,True,True,False,False,True
 0,21,20,True,False,True,True,False,False,False,False
 0,60,85,True,True,True,False,True,False,False,False
 0,62,71,False,True,True,True,True,True,False,False
@@ -4889,7 +4741,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,17,19,False,False,True,False,False,False,False,False
 0,48,95,True,False,True,False,True,True,False,False
 0,19,20,True,False,True,True,True,True,False,False
-0,1,19,True,True,True,False,True,False,False,False
 0,63,20,True,True,True,True,False,False,False,False
 1,67,105,True,False,True,True,True,False,False,False
 0,63,64,False,True,True,False,False,False,False,False
@@ -4903,7 +4754,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,45,21,False,True,True,False,True,False,False,False
 0,59,100,True,False,True,False,False,False,False,True
 0,63,96,False,False,True,True,True,False,False,False
-0,1,20,True,False,True,True,True,False,False,False
 0,43,60,True,False,True,False,False,False,True,False
 0,71,87,False,True,True,True,True,False,True,False
 0,12,44,False,False,True,True,False,False,True,False
@@ -4921,7 +4771,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,53,72,True,True,True,False,False,False,True,False
 0,10,99,False,False,True,False,False,False,True,True
 0,18,57,True,True,True,True,True,False,False,True
-0,1,20,True,False,True,True,False,False,False,False
 0,51,86,False,True,True,False,False,False,False,False
 1,61,86,True,False,True,False,False,False,False,False
 0,7,45,True,False,True,True,True,True,False,False
@@ -4932,10 +4781,8 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,45,False,False,False,False,False,False,False,True
 1,27,36,True,False,False,True,True,False,False,True
 0,10,56,False,True,True,False,True,True,False,False
-0,1,80,False,False,True,False,False,False,False,True
 0,21,74,False,True,True,True,True,False,True,True
 0,12,21,True,True,True,True,False,True,False,False
-0,1,20,True,False,True,True,True,False,False,True
 1,51,20,False,False,True,False,False,True,False,False
 0,3,59,False,True,True,False,True,False,False,False
 0,72,107,False,True,True,False,False,False,False,False
@@ -4957,18 +4804,15 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,11,20,True,False,True,False,True,False,False,False
 0,2,21,True,False,True,False,True,False,False,False
 0,1,21,True,True,True,False,False,False,False,False
-0,23,20,True,True,True,True,True,False,False,False
 0,62,101,False,True,True,False,False,False,False,False
 0,7,79,False,False,True,True,True,False,False,False
 0,71,114,False,True,True,False,False,False,False,False
 0,2,87,False,False,True,False,False,False,False,True
 0,72,69,False,True,True,False,False,False,True,False
-0,71,20,False,True,True,True,True,False,False,False
 1,12,80,True,False,True,False,False,False,False,True
 0,3,44,False,True,True,True,False,False,False,True
 0,21,99,False,False,True,True,False,False,False,False
 0,8,20,True,False,True,False,False,False,True,False
-0,10,20,True,False,True,False,False,False,False,False
 0,3,50,True,False,True,False,False,True,False,True
 0,52,84,True,False,True,False,False,False,False,True
 0,58,19,True,False,True,True,False,False,True,False
@@ -4977,15 +4821,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,62,20,True,True,True,True,True,False,True,False
 1,72,115,False,False,True,False,False,False,True,False
 0,59,93,False,False,True,False,False,True,False,False
-0,13,20,True,False,True,False,False,False,False,False
 0,34,90,True,True,True,True,False,False,True,False
 0,1,46,False,True,True,True,False,True,False,True
 0,22,54,True,False,True,False,False,False,False,True
-0,71,24,False,False,True,True,True,True,False,False
 1,49,90,True,False,True,False,False,False,False,True
 1,9,90,False,False,True,False,False,False,False,False
 0,4,78,True,False,True,True,False,False,True,True
-0,72,25,True,True,True,True,True,False,False,False
 0,25,100,False,False,True,True,False,False,True,True
 1,1,25,True,False,False,False,False,True,False,True
 0,42,20,True,False,True,False,False,False,False,False
@@ -5006,7 +4847,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,57,20,False,True,True,True,True,False,False,False
 0,52,51,False,True,True,False,True,True,False,False
 0,49,104,True,False,True,True,False,False,False,True
-0,1,71,False,False,True,False,False,False,False,True
 0,1,21,False,False,True,False,False,False,True,True
 0,7,21,False,True,True,True,True,True,False,False
 1,18,94,True,False,True,True,False,False,True,False
@@ -5018,7 +4858,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,3,74,True,False,True,False,False,False,False,False
 0,35,55,True,False,True,False,False,True,False,True
 0,15,20,False,False,True,False,False,False,True,False
-0,1,20,True,False,True,True,True,False,False,False
 0,72,21,True,True,True,False,False,False,True,False
 0,18,19,True,False,True,True,True,True,False,False
 0,2,86,False,False,True,False,True,False,True,True
@@ -5028,7 +4867,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,37,72,True,False,True,False,False,True,False,False
 1,56,100,False,False,True,True,True,False,False,False
 0,69,60,True,True,True,False,True,False,True,False
-0,71,20,False,True,True,False,False,False,False,False
 0,62,116,True,True,True,False,True,False,False,False
 0,50,35,True,False,False,False,True,False,False,False
 0,62,111,False,True,True,True,True,False,False,False
@@ -5054,20 +4892,16 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,2,79,False,False,True,False,False,False,False,True
 1,31,91,True,False,True,True,True,False,False,False
 0,16,64,True,True,True,False,False,True,False,False
-0,1,80,False,False,True,True,False,False,True,True
 0,17,94,True,False,True,True,False,False,True,True
 1,7,89,False,False,True,True,True,False,False,False
-0,1,21,True,False,True,False,False,False,False,False
 0,10,36,False,False,False,True,True,False,False,False
 0,2,90,False,False,True,False,False,False,False,False
 0,59,90,False,True,True,True,False,True,False,False
 1,3,75,False,False,True,False,False,False,False,True
-0,72,85,False,False,True,True,True,False,False,False
 0,22,89,False,False,True,False,False,False,False,False
 0,13,51,True,False,True,True,False,True,False,False
 0,10,45,False,False,True,False,False,False,True,False
 0,35,46,False,True,False,False,False,False,False,False
-0,71,99,True,False,True,False,False,False,True,False
 1,32,75,True,False,True,True,True,False,False,True
 0,5,56,True,False,True,False,True,True,False,False
 1,31,85,False,False,True,False,True,False,False,False
@@ -5084,20 +4918,16 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,52,66,False,False,False,False,False,True,False,False
 0,26,20,True,False,True,False,False,False,False,False
 1,2,70,False,False,True,False,False,True,False,True
-0,1,20,False,False,True,False,False,False,False,False
 0,44,54,True,False,False,False,False,True,False,False
 0,2,25,True,False,False,False,False,False,False,True
 0,2,20,False,False,True,False,False,False,True,False
 0,33,108,False,False,True,False,False,False,False,False
 0,30,95,True,False,True,True,True,False,False,False
 1,14,100,False,False,True,False,False,False,False,True
-0,1,20,True,False,True,False,False,False,False,True
 0,12,95,True,False,True,True,False,False,True,False
 0,41,89,True,False,True,True,True,True,False,False
 0,9,103,True,True,True,False,False,True,False,False
 1,69,110,False,False,True,True,False,False,True,False
-0,1,80,True,False,True,True,True,False,False,True
-0,2,20,True,False,True,True,True,False,False,False
 0,2,49,False,False,True,False,False,False,False,True
 0,30,56,True,False,True,False,True,False,False,False
 0,51,94,False,False,True,True,True,False,False,False
@@ -5160,7 +4990,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,27,20,True,True,True,True,False,False,True,False
 0,54,110,True,False,True,True,True,False,False,True
 1,42,95,False,False,True,False,True,False,False,False
-0,1,19,False,True,True,False,False,False,False,False
 0,12,19,True,True,True,False,False,False,False,False
 0,49,101,True,True,True,False,False,False,False,True
 0,27,69,True,False,True,True,False,False,False,False
@@ -5171,7 +5000,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,52,106,False,False,True,False,False,True,False,False
 0,10,74,True,False,True,False,False,False,False,True
 1,72,74,True,False,True,False,False,False,False,False
-0,7,75,False,False,True,False,False,False,True,True
 1,72,116,True,True,True,False,False,False,False,False
 0,51,81,False,True,True,False,True,False,False,False
 1,26,98,False,False,True,False,False,True,False,False
@@ -5203,7 +5031,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,58,94,True,True,True,False,False,True,False,False
 0,1,24,True,False,False,True,True,False,True,False
 1,12,73,True,False,True,False,False,False,False,False
-0,72,114,True,True,True,False,False,False,False,False
 0,5,100,False,False,True,True,True,False,False,True
 0,20,20,False,True,True,False,False,False,True,False
 0,27,19,True,True,True,False,False,False,False,False
@@ -5211,7 +5038,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,70,98,False,False,True,True,True,False,True,False
 0,67,69,True,True,True,False,False,True,False,False
 0,3,50,True,False,True,True,True,False,False,False
-0,1,20,True,False,True,False,False,False,True,True
 0,28,54,True,True,True,True,True,False,False,False
 0,29,20,True,True,True,False,True,False,False,False
 0,4,75,False,False,True,False,False,False,False,True
@@ -5225,7 +5051,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,11,51,False,True,True,True,False,False,True,False
 0,40,105,True,False,True,True,True,True,False,True
 1,40,102,True,False,True,True,True,True,False,True
-0,41,20,False,False,True,False,False,False,False,False
 0,31,94,True,False,True,True,True,False,False,False
 0,62,23,True,False,True,False,False,False,False,False
 0,61,104,False,False,True,True,True,True,False,False
@@ -5237,7 +5062,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,4,56,True,False,True,True,True,False,False,False
 0,72,90,True,False,True,False,True,True,False,False
 0,70,65,True,True,True,False,False,False,False,False
-0,71,24,True,False,True,False,False,True,False,False
 0,38,99,True,True,True,False,True,True,False,True
 1,19,91,True,False,True,False,True,False,True,True
 0,3,70,True,False,True,False,False,True,False,True
@@ -5249,9 +5073,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,3,80,True,False,True,True,True,False,False,False
 1,10,85,False,False,True,False,False,False,True,True
 0,61,99,True,False,True,False,False,False,True,False
-0,12,20,True,False,True,True,True,False,False,False
 0,31,35,True,True,False,False,True,False,False,True
-0,1,20,True,False,True,True,True,False,False,False
 0,72,66,True,False,False,False,False,True,False,False
 1,14,90,True,False,True,True,True,False,True,True
 0,11,80,True,False,True,True,True,False,False,True
@@ -5260,7 +5082,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,4,20,True,False,True,True,True,True,False,False
 1,21,65,True,False,True,True,True,False,False,False
 0,22,21,False,True,True,True,True,False,False,False
-0,1,70,True,True,True,True,True,False,True,True
 1,23,90,True,False,True,True,False,True,False,False
 0,29,40,False,False,False,False,False,False,False,False
 1,47,60,True,False,True,False,False,True,False,False
@@ -5268,7 +5089,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,30,False,False,False,False,False,True,False,False
 0,8,54,True,True,True,False,False,True,False,False
 0,24,83,False,True,True,True,False,False,True,False
-1,9,84,True,False,True,False,False,False,False,True
 1,5,50,True,False,True,False,False,False,False,True
 1,25,90,False,False,True,False,False,False,False,True
 0,2,69,False,False,True,True,True,False,False,True
@@ -5277,7 +5097,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,11,45,False,False,True,True,False,False,False,False
 1,29,99,False,False,True,False,False,True,False,True
 0,30,20,False,True,True,False,True,False,False,False
-0,72,116,False,True,True,True,True,False,False,False
 0,70,98,True,True,True,True,False,False,True,False
 0,25,54,False,False,True,True,False,True,False,False
 0,12,29,False,True,False,True,False,False,True,True
@@ -5294,12 +5113,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,70,114,False,False,True,False,False,True,False,False
 1,56,73,False,True,True,True,True,True,False,False
 0,46,46,False,False,False,True,True,False,True,False
-0,2,20,False,False,True,True,True,False,False,False
 0,72,108,False,True,True,False,False,True,False,False
 1,69,85,True,False,True,False,False,False,True,False
-0,1,20,False,False,True,True,True,False,False,False
 0,53,21,False,False,True,True,True,False,False,True
-0,29,20,False,False,True,False,True,False,False,False
 0,35,49,True,False,False,True,True,False,False,False
 0,9,88,True,False,True,False,False,False,False,False
 0,19,89,True,False,True,False,False,False,False,False
@@ -5332,7 +5148,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,33,34,True,True,False,False,True,False,False,False
 0,71,24,False,False,True,False,False,False,True,False
 0,7,21,False,False,True,False,False,True,False,False
-0,5,70,True,False,True,False,True,False,False,True
 0,17,93,False,True,True,True,True,False,True,False
 0,12,20,True,False,True,False,True,True,False,False
 1,50,109,False,False,True,False,False,False,False,False
@@ -5349,11 +5164,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,9,20,False,False,True,True,True,False,True,False
 0,68,26,False,False,True,False,False,True,False,False
 0,7,24,True,False,True,True,True,False,True,False
-0,1,20,True,False,True,True,False,False,True,False
 0,4,50,True,False,True,False,True,True,False,True
 0,39,73,True,False,True,False,True,False,False,False
 0,7,21,False,True,True,False,False,False,False,False
-1,72,84,True,False,True,False,True,False,False,False
 1,46,101,True,False,True,True,True,False,False,True
 0,61,98,True,True,True,False,False,True,False,False
 0,20,20,True,False,True,False,False,False,True,False
@@ -5371,7 +5184,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,64,105,True,False,True,False,False,False,False,False
 0,60,21,True,True,True,True,True,False,False,False
 0,3,65,False,False,True,True,True,True,False,False
-0,2,70,False,False,True,True,True,False,False,False
 0,65,96,False,False,True,False,True,False,True,False
 0,50,25,True,True,True,True,True,False,False,False
 0,63,81,False,False,True,False,False,False,False,False
@@ -5381,7 +5193,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,23,74,False,False,True,True,True,True,False,False
 0,4,74,True,False,True,False,True,False,False,True
 1,2,19,True,False,True,True,True,False,False,False
-0,20,20,False,True,True,False,False,True,False,False
 0,0,81,False,True,True,True,True,False,False,False
 0,2,20,False,True,True,True,False,False,False,True
 0,62,26,False,False,True,True,True,False,False,False
@@ -5395,7 +5206,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,91,True,True,True,False,True,False,False,False
 0,13,50,True,True,True,True,True,False,False,False
 0,68,83,False,True,True,False,True,False,False,True
-0,4,70,False,False,True,False,False,True,False,True
 0,18,55,True,False,True,False,True,False,False,False
 0,19,100,True,False,True,False,False,False,False,True
 1,40,79,False,False,True,False,False,True,False,True
@@ -5435,7 +5245,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,60,106,False,False,True,False,True,True,False,False
 0,15,88,False,False,True,True,True,False,False,True
 0,1,70,False,False,True,False,True,True,False,True
-0,4,20,False,False,True,False,False,False,False,False
 0,34,30,True,True,False,True,False,False,False,False
 0,1,45,True,True,True,False,True,False,False,False
 1,35,108,False,False,True,True,True,False,False,False
@@ -5445,7 +5254,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,42,66,False,False,True,False,False,False,False,False
 0,70,20,False,False,True,True,True,False,False,False
 0,34,79,True,True,True,True,True,False,True,False
-0,1,20,True,False,True,False,False,False,False,True
 1,42,79,True,False,True,False,False,False,False,False
 0,1,19,False,False,True,True,True,True,False,False
 0,57,53,False,True,True,False,True,False,True,False
@@ -5487,13 +5295,11 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,46,73,True,False,True,False,False,False,False,False
 0,27,96,False,False,True,True,False,False,True,False
 0,69,21,True,True,True,False,False,True,False,False
-1,4,89,False,False,True,True,True,True,False,True
 0,14,93,True,False,True,False,False,False,False,False
 0,32,20,False,False,True,False,False,False,False,False
 0,67,19,True,False,True,False,False,False,False,False
 0,1,20,False,False,True,True,False,False,True,False
 0,43,91,True,False,True,True,True,False,False,False
-0,21,20,True,False,True,False,True,False,False,False
 0,2,49,True,False,True,False,True,False,False,False
 0,12,50,False,False,False,True,False,False,True,False
 0,28,36,False,False,False,False,False,True,False,False
@@ -5506,8 +5312,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,68,40,True,False,False,True,True,True,False,False
 0,50,90,False,False,True,False,False,True,False,False
 1,70,106,False,False,True,False,False,False,False,False
-0,65,60,False,False,True,False,False,True,False,False
-0,1,70,False,False,True,True,False,False,True,True
 0,36,95,False,False,True,False,False,False,False,False
 0,57,59,False,False,False,False,True,False,False,False
 0,9,88,False,False,True,True,False,False,True,False
@@ -5528,7 +5332,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,104,False,False,True,True,False,True,False,True
 0,7,20,False,True,True,True,True,True,False,False
 1,71,25,True,False,True,False,False,True,False,False
-0,17,20,True,False,True,False,False,False,False,False
 0,3,76,False,False,True,True,True,True,False,True
 0,72,25,True,False,True,False,False,True,False,False
 1,40,56,True,False,True,False,False,False,True,False
@@ -5552,7 +5355,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,53,94,False,False,True,False,False,True,False,False
 0,28,90,False,True,True,False,False,False,False,True
 0,5,75,True,False,True,False,False,True,False,False
-0,10,20,True,False,True,False,False,False,False,False
 0,50,35,True,False,False,False,False,False,True,False
 0,19,79,True,False,True,False,False,False,True,False
 0,17,70,True,True,True,False,True,False,False,False
@@ -5601,7 +5403,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,20,False,True,True,False,True,False,False,True
 0,48,46,False,True,False,False,True,False,False,False
 0,29,66,False,False,True,False,False,True,False,False
-0,3,20,False,False,True,False,False,False,True,False
 0,14,59,False,False,True,False,False,False,False,False
 1,49,102,False,False,True,False,True,False,False,False
 0,69,19,False,True,True,False,False,False,False,False
@@ -5609,15 +5410,11 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,66,58,False,True,True,False,False,False,False,False
 0,53,96,True,True,True,False,False,True,False,False
 1,15,86,True,False,True,True,True,False,False,True
-0,10,30,False,False,False,True,True,False,False,False
 0,27,50,True,False,True,True,True,False,False,False
 0,72,73,False,False,True,False,False,True,False,False
 0,21,55,True,False,True,True,False,False,True,False
-0,1,55,False,False,True,True,True,True,False,True
 0,55,59,True,False,True,False,False,False,False,False
-0,58,20,False,True,True,False,False,False,False,False
 1,6,74,False,False,True,False,False,False,False,True
-0,12,20,False,False,True,False,False,False,False,False
 0,18,40,False,False,False,False,True,True,False,False
 0,3,70,True,False,True,True,True,False,True,False
 0,55,59,True,True,True,True,True,False,False,False
@@ -5626,10 +5423,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,70,91,False,False,True,True,True,False,False,False
 0,50,20,False,False,True,False,False,False,False,False
 0,72,24,True,True,True,False,False,False,False,False
-1,66,111,True,False,True,True,True,False,False,True
-1,2,94,True,False,True,True,True,False,False,True
 0,44,78,False,True,True,False,False,False,False,False
-0,56,25,True,False,True,True,True,False,False,True
 0,6,50,True,False,True,False,False,False,False,False
 0,25,21,True,False,True,False,False,False,True,False
 0,6,21,True,False,True,True,False,False,False,False
@@ -5642,7 +5436,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,3,30,False,True,False,False,True,False,False,True
 0,24,95,False,False,True,True,False,True,False,False
 0,9,41,False,False,False,False,False,True,False,False
-0,22,20,True,False,True,False,True,False,False,False
 0,56,105,False,False,True,False,True,False,False,False
 0,21,46,True,True,True,True,False,True,False,False
 1,16,87,True,False,True,False,False,False,False,True
@@ -5672,20 +5465,16 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,25,66,False,False,True,True,False,False,False,False
 0,33,20,False,True,True,True,False,False,True,False
 1,1,78,False,False,True,True,False,True,False,True
-1,2,70,False,False,True,False,False,True,False,True
 0,39,101,True,True,True,False,False,False,True,False
 0,55,55,True,False,False,False,True,False,False,True
-0,72,71,False,True,True,False,False,False,False,False
 0,70,74,False,True,True,False,True,True,False,False
 0,4,69,False,False,True,False,False,False,False,True
 0,7,85,True,False,True,True,True,False,False,True
 0,54,20,False,True,True,False,False,False,False,False
 0,31,104,False,True,True,False,False,True,False,True
 1,60,75,False,True,True,False,False,False,False,False
-0,1,50,False,False,True,False,False,False,False,False
 1,65,71,True,False,True,False,True,True,False,False
 0,12,20,False,False,True,False,False,False,True,False
-0,72,65,True,True,False,False,True,False,False,False
 0,7,19,False,False,True,False,True,True,False,False
 1,44,85,False,False,True,False,False,False,True,False
 1,7,89,True,False,True,False,True,False,False,False
@@ -5733,7 +5522,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,61,96,True,False,True,False,False,False,False,False
 0,7,63,False,False,True,False,True,False,False,False
 0,72,105,True,True,True,False,False,False,True,False
-0,1,20,True,False,True,True,False,False,True,False
 0,1,60,True,False,True,False,False,False,True,True
 1,3,77,True,False,True,False,False,False,False,True
 0,25,26,True,True,True,False,False,False,False,False
@@ -5754,7 +5542,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,51,84,True,True,True,True,False,False,True,True
 0,72,54,False,False,False,False,False,False,False,True
 0,23,81,True,False,True,False,False,False,False,True
-0,5,81,True,False,True,True,True,False,False,True
 1,11,20,True,False,True,False,False,False,True,True
 1,52,104,True,False,True,True,False,False,False,True
 0,41,50,False,False,True,False,False,True,False,False
@@ -5762,10 +5549,8 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,61,106,True,False,True,False,True,False,False,False
 0,12,89,False,False,True,False,False,False,True,False
 0,1,91,False,False,True,True,True,False,False,True
-0,4,20,True,False,True,False,True,False,False,False
 0,14,80,False,False,True,True,True,False,True,False
 0,69,24,True,False,True,True,True,True,False,False
-0,44,54,True,False,False,False,False,True,False,False
 1,13,101,False,False,True,False,False,False,True,True
 0,9,102,True,True,True,False,True,True,False,False
 0,22,20,True,True,True,True,True,False,True,False
@@ -5773,7 +5558,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,1,43,True,False,False,False,False,False,False,True
 0,71,94,False,False,True,True,False,False,True,True
 0,42,23,False,True,True,False,False,False,False,False
-0,1,80,True,False,True,False,False,False,False,True
 0,1,75,True,False,True,True,True,False,True,True
 1,42,85,False,False,True,True,False,False,True,True
 0,8,56,False,True,True,True,False,False,True,False
@@ -5794,7 +5578,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,13,102,True,False,True,False,True,False,False,True
 1,27,78,False,False,True,True,False,False,False,True
 0,22,101,True,False,True,True,True,False,True,False
-0,71,86,True,False,True,True,True,False,False,False
 0,26,45,True,False,True,False,False,False,True,False
 1,45,94,True,False,True,True,True,False,False,False
 0,16,19,False,False,True,True,True,False,False,False
@@ -5808,7 +5591,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,13,97,True,True,True,False,False,False,False,False
 0,72,110,False,True,True,False,False,False,True,False
 0,58,50,True,False,True,True,True,False,True,False
-0,72,90,True,True,True,False,True,False,False,False
 1,1,72,False,False,True,True,True,False,False,False
 1,5,20,True,False,True,True,False,False,True,False
 0,34,116,False,True,True,False,True,False,False,False
@@ -5825,7 +5607,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,4,20,False,False,True,False,False,False,False,False
 0,72,101,True,False,True,True,False,False,True,False
 0,8,20,True,False,True,False,True,False,False,False
-0,1,24,True,False,False,False,True,False,False,True
 0,1,80,False,False,True,True,True,False,False,True
 0,1,26,False,False,True,True,False,False,True,False
 0,9,91,False,False,True,False,False,True,False,True
@@ -5839,7 +5620,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,22,19,False,True,True,False,False,False,False,False
 0,65,45,False,True,False,True,False,False,False,False
 0,65,59,False,False,True,True,True,False,False,False
-0,1,20,False,False,True,False,False,True,False,False
 1,66,101,False,False,True,False,False,True,False,False
 0,71,105,True,False,True,True,False,False,False,False
 0,17,70,True,False,True,True,True,True,False,True
@@ -5862,11 +5642,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,68,97,False,False,True,False,True,False,False,True
 1,57,80,True,False,True,False,False,False,True,False
 0,7,81,False,False,True,False,True,False,False,True
-0,1,19,False,False,True,True,True,False,False,False
 0,7,69,False,True,True,False,False,False,True,False
 0,68,24,True,False,True,False,False,False,False,False
 0,19,100,True,True,True,False,False,False,False,True
-0,2,80,False,False,True,False,False,False,True,False
 0,67,106,False,True,True,False,False,False,False,False
 0,67,60,True,True,True,True,True,True,False,False
 0,35,69,True,False,True,True,False,False,False,False
@@ -5890,7 +5668,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,44,False,False,True,True,True,False,False,False
 0,37,40,True,True,False,False,False,False,False,False
 0,69,81,True,True,True,True,False,False,True,False
-0,71,79,True,False,True,False,False,True,False,False
 0,8,55,False,True,True,False,False,False,False,False
 0,6,63,False,False,False,True,False,False,True,False
 0,58,84,False,False,True,True,True,False,False,False
@@ -5898,7 +5675,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,23,90,True,False,True,True,False,False,True,False
 0,66,20,True,True,True,True,False,False,True,False
 0,51,83,True,False,True,True,False,True,False,False
-0,7,80,False,False,True,True,True,False,False,True
 0,15,20,True,True,True,False,False,False,False,False
 0,51,80,True,False,True,True,True,False,False,True
 0,4,19,True,False,True,False,False,False,False,False
@@ -5919,7 +5695,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,31,False,False,False,False,False,False,False,False
 0,8,51,True,True,True,False,False,False,True,True
 1,1,46,True,False,True,False,False,False,True,False
-0,1,20,False,False,True,False,True,False,False,False
 0,22,20,True,False,True,False,False,True,False,False
 1,16,39,True,False,False,True,True,False,True,True
 0,72,118,True,False,True,False,True,False,False,False
@@ -5930,7 +5705,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,69,82,True,False,True,False,False,False,True,False
 1,46,80,True,False,True,True,True,False,False,True
 0,67,51,False,True,True,True,True,False,True,False
-0,71,90,True,True,True,False,True,False,False,False
 1,20,90,True,False,True,False,True,False,False,False
 0,41,114,False,False,True,True,True,False,False,True
 1,3,41,True,False,False,True,True,False,False,True
@@ -5953,7 +5727,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,12,19,False,False,True,True,True,False,False,False
 0,3,45,True,False,True,True,False,False,False,True
 0,54,105,True,False,True,False,False,False,False,True
-0,6,20,True,True,True,False,False,False,False,False
 0,2,20,True,False,True,False,False,False,True,False
 1,57,94,True,False,True,True,True,False,False,False
 0,63,21,False,False,True,False,True,False,False,False
@@ -5963,7 +5736,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,54,20,False,False,True,False,False,False,False,False
 0,61,94,True,False,True,False,True,False,False,False
 0,19,20,True,True,True,True,False,True,False,False
-0,12,19,False,False,True,False,False,False,False,False
 0,18,25,False,True,True,False,False,True,False,False
 0,68,95,True,True,True,True,True,False,False,False
 0,10,100,False,True,True,False,False,False,False,True
@@ -6031,7 +5803,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,56,101,True,False,True,False,True,False,False,False
 0,71,19,False,False,True,False,False,False,False,False
 1,13,70,False,False,True,False,False,False,False,True
-0,2,20,False,False,True,True,True,False,False,False
 0,17,96,True,False,True,True,True,False,False,False
 0,2,55,True,False,True,False,False,True,False,True
 0,72,101,False,False,True,True,True,True,False,False
@@ -6042,7 +5813,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,59,66,False,True,True,False,True,False,False,False
 0,27,50,False,True,True,False,False,False,False,False
 0,57,103,True,False,True,False,False,True,False,False
-0,1,44,False,False,True,False,False,False,False,True
 0,37,20,False,False,True,True,True,False,False,False
 0,6,49,False,False,True,False,False,True,False,False
 0,18,76,True,False,True,False,True,False,False,False
@@ -6055,19 +5825,15 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,18,95,True,False,True,True,False,False,True,True
 1,56,105,True,True,True,True,True,False,False,True
 0,4,90,True,False,True,False,False,False,False,False
-0,64,115,False,False,True,True,False,True,False,False
-0,61,81,True,False,True,False,False,False,False,False
 1,71,99,False,False,True,False,False,False,False,False
 0,2,70,True,False,True,False,False,True,False,True
 1,64,102,True,False,True,False,True,False,False,False
-0,45,108,True,False,True,True,False,False,False,False
 0,18,24,True,False,True,False,True,False,False,False
 0,66,26,True,True,True,False,False,False,True,False
 0,37,41,True,False,False,False,False,False,False,False
 0,39,25,True,True,True,True,False,False,True,False
 0,25,85,True,False,True,False,True,False,False,True
 0,22,87,True,False,True,False,False,True,False,False
-0,10,20,True,False,True,False,False,False,False,False
 0,20,20,False,False,True,False,False,True,False,False
 1,8,64,True,False,True,True,False,False,True,False
 0,49,52,False,False,True,True,True,False,True,False
@@ -6082,20 +5848,17 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,33,104,False,True,True,False,False,False,False,True
 0,23,76,False,False,True,False,False,False,False,True
 0,45,55,True,True,True,True,True,False,False,False
-0,35,20,False,True,True,True,False,False,True,False
 0,16,20,True,False,True,True,True,False,False,True
 0,49,107,False,False,True,True,False,False,False,False
 0,1,19,True,False,True,True,False,False,True,True
 0,61,81,True,False,True,False,False,True,False,False
 1,68,20,True,True,True,False,False,False,False,False
-0,1,20,True,False,True,True,True,False,False,False
 0,60,54,False,False,False,False,True,False,True,False
 0,53,26,True,True,True,True,True,False,False,False
 1,28,103,False,False,True,True,True,False,True,True
 0,2,70,False,False,True,False,False,False,True,True
 1,1,70,False,False,True,False,False,False,True,False
 0,16,73,False,False,True,False,False,False,False,True
-0,72,20,False,True,True,False,True,False,False,False
 0,6,55,False,False,True,True,False,False,True,False
 0,3,108,True,False,True,True,False,True,False,False
 0,49,90,True,True,True,True,False,False,True,False
@@ -6104,7 +5867,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,12,29,False,True,False,True,False,False,True,False
 1,32,80,True,False,True,False,False,False,False,True
 0,68,103,True,True,True,True,False,True,False,False
-0,1,21,True,False,True,True,True,True,False,False
 0,40,36,True,False,False,False,False,False,False,False
 0,5,51,True,False,True,False,False,False,False,False
 0,72,79,True,False,True,False,False,False,False,False
@@ -6152,17 +5914,13 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,57,60,True,True,True,False,True,False,False,False
 0,32,20,True,False,True,False,True,False,False,False
 0,44,90,True,False,True,False,True,False,False,False
-0,2,54,True,False,True,False,False,False,True,True
 0,41,114,False,False,True,True,True,False,True,True
 0,14,91,False,True,True,False,False,False,False,True
 0,56,86,False,False,True,False,True,False,False,False
 1,7,85,False,False,True,False,False,False,False,True
-0,11,20,True,False,True,False,False,False,False,False
-0,13,20,False,False,True,False,False,True,False,False
 0,71,105,False,False,True,True,False,True,False,False
 0,22,25,True,False,True,False,True,False,False,False
 0,42,99,True,False,True,False,False,False,True,False
-0,15,20,False,True,True,True,True,False,False,False
 0,69,92,True,True,True,True,False,False,True,False
 0,23,75,False,True,True,False,True,False,False,False
 0,19,74,True,False,True,True,True,False,False,True
@@ -6172,12 +5930,10 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,18,39,False,False,False,False,False,False,False,True
 0,71,58,False,False,False,True,True,False,False,False
 0,15,20,False,True,True,False,True,False,False,False
-0,8,20,True,True,True,True,True,False,False,False
 1,21,97,True,False,True,False,False,False,False,True
 0,6,90,False,False,True,False,True,True,False,False
 1,69,30,True,False,False,True,True,False,False,False
 0,68,56,True,True,False,False,False,False,False,False
-0,1,20,False,False,True,False,False,False,True,False
 0,62,20,True,True,True,True,True,False,False,False
 0,38,79,True,True,True,True,True,False,True,False
 0,5,85,True,False,True,True,True,True,False,True
@@ -6191,13 +5947,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,48,108,True,False,True,True,False,False,True,False
 1,54,25,True,False,False,False,True,False,False,False
 0,1,50,False,False,True,True,False,False,False,False
-0,1,44,False,False,True,False,True,False,False,False
-0,1,20,True,False,True,True,True,True,False,False
 0,48,20,True,False,True,True,True,True,False,False
-0,1,20,False,False,True,True,True,False,False,False
 0,37,72,False,False,True,True,True,False,True,False
 0,1,19,True,False,True,False,False,False,False,False
-0,39,25,True,True,True,True,False,False,True,False
 0,4,56,False,False,True,False,True,False,False,False
 0,33,24,False,True,True,False,False,False,True,False
 0,18,19,True,False,True,False,True,False,False,False
@@ -6208,7 +5960,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,20,True,True,True,True,True,False,False,False
 0,10,75,True,False,True,False,True,False,False,False
 0,25,20,False,True,True,True,False,False,True,False
-0,71,25,False,False,True,False,False,True,False,False
 0,20,26,False,True,True,False,False,True,False,False
 0,14,86,True,False,True,False,True,False,False,True
 0,62,56,True,True,True,False,False,True,False,False
@@ -6340,7 +6091,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,69,82,True,True,True,False,False,False,False,False
 0,33,80,True,False,True,False,False,False,False,False
 0,46,21,False,False,True,True,True,False,False,False
-1,1,70,False,False,True,True,True,False,False,True
 0,1,76,False,False,True,True,True,False,False,False
 0,65,26,False,True,True,False,False,True,False,False
 0,15,59,False,False,True,True,True,False,False,False
@@ -6349,7 +6099,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,25,76,True,True,True,False,True,False,False,False
 0,38,70,True,False,True,False,True,False,False,False
 0,53,19,False,False,True,False,False,False,True,False
-0,1,45,True,False,True,False,False,False,False,True
 0,1,69,False,True,True,True,True,False,False,True
 0,52,21,True,True,True,True,True,False,False,False
 0,43,79,False,False,True,False,False,False,False,False
@@ -6362,7 +6111,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,11,20,False,True,True,False,False,False,False,False
 0,1,50,True,False,True,False,False,False,False,True
 0,53,98,True,False,True,True,True,False,False,False
-0,1,20,True,False,True,False,True,False,False,False
 0,14,76,True,False,True,True,False,False,True,False
 1,22,26,False,False,True,True,True,False,False,False
 0,64,84,True,False,True,False,False,False,True,False
@@ -6395,7 +6143,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,76,True,False,True,True,True,False,False,True
 1,1,56,False,False,True,False,False,True,False,True
 0,71,91,False,True,True,True,True,True,False,False
-0,46,19,False,True,True,True,True,False,False,False
 0,13,24,False,False,False,False,False,True,False,True
 0,41,81,False,False,True,True,True,False,True,False
 1,30,75,True,False,True,True,True,False,False,False
@@ -6436,11 +6183,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,70,True,True,True,False,False,False,False,False
 1,2,75,False,False,True,False,False,False,True,True
 0,47,21,False,True,True,False,False,False,True,False
-0,72,94,False,False,True,True,False,False,True,False
 1,31,100,False,False,True,True,True,False,False,True
 0,0,20,False,True,True,False,True,False,False,False
 0,47,20,True,False,True,True,True,False,False,False
-0,72,25,True,False,True,False,False,False,False,False
 0,1,21,True,False,True,False,False,True,False,False
 0,9,35,True,False,False,False,False,False,False,True
 0,4,30,True,False,False,True,False,True,False,False
@@ -6460,14 +6205,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,30,94,True,False,True,False,False,False,False,False
 0,39,24,False,True,True,False,False,False,False,False
 0,3,55,False,True,True,False,True,False,False,True
-0,3,21,True,False,True,False,True,False,False,False
 0,68,76,True,True,True,False,True,False,False,True
 0,41,19,False,True,True,True,False,True,False,False
 0,8,87,False,False,True,True,False,False,False,True
 0,72,24,False,False,True,False,False,False,True,False
 0,10,80,True,False,True,True,True,False,False,True
 0,12,54,True,True,True,True,True,False,False,True
-0,72,110,False,False,True,False,False,True,False,False
 1,17,85,False,False,True,False,False,False,True,True
 0,68,78,False,True,True,False,False,True,False,False
 0,57,104,False,False,True,False,False,True,False,True
@@ -6490,14 +6233,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,16,80,False,True,True,False,True,False,False,False
 0,44,94,False,True,True,False,False,False,False,False
 0,16,20,True,True,True,False,False,True,False,False
-0,18,20,False,False,True,False,True,False,False,False
 0,44,20,True,False,True,False,False,False,True,False
 1,30,102,True,False,True,False,False,True,False,False
 0,25,79,True,False,True,False,False,False,False,False
 0,14,71,False,False,True,False,True,False,False,True
 0,4,51,False,True,True,True,True,False,False,True
 0,42,99,False,False,True,True,True,False,False,False
-0,7,20,False,True,True,False,True,False,False,False
 0,19,85,True,False,True,False,False,False,False,False
 1,7,46,True,True,True,False,False,False,True,False
 0,10,66,False,True,True,True,True,True,False,False
@@ -6515,7 +6256,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,1,49,True,False,True,True,False,False,False,False
 0,26,55,False,False,True,False,False,False,True,False
 0,8,20,False,False,True,False,False,False,False,True
-0,12,20,False,False,True,False,False,False,False,False
 1,5,74,False,False,True,False,False,False,False,True
 0,69,55,False,True,False,False,False,False,False,False
 1,46,99,True,False,True,True,True,True,False,False
@@ -6530,7 +6270,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,4,49,True,True,True,False,False,False,True,True
 0,61,81,True,True,True,True,True,False,False,False
 1,36,84,True,False,True,False,False,True,False,True
-0,1,20,False,False,True,False,False,False,False,False
 1,14,79,False,False,True,False,False,True,False,True
 0,50,109,False,False,True,True,True,False,False,True
 0,27,85,True,True,True,False,True,True,False,False
@@ -6545,9 +6284,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,58,24,False,False,True,False,False,True,False,False
 0,15,105,False,False,True,True,True,False,False,True
 0,16,81,True,False,True,False,False,False,False,False
-0,1,46,True,False,True,False,False,False,False,True
 0,8,66,False,False,True,False,False,False,True,False
-0,2,71,False,False,True,False,False,False,False,True
 0,71,90,False,True,True,False,False,False,False,False
 0,4,20,True,False,True,True,True,False,False,False
 0,68,83,True,True,True,False,True,True,False,False
@@ -6561,30 +6298,24 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,46,19,False,True,True,False,True,False,False,False
 0,58,105,True,False,True,False,False,True,False,True
 0,17,44,True,True,False,False,True,False,False,False
-0,21,20,True,True,True,True,True,False,False,False
 0,2,95,False,False,True,True,True,False,False,True
 0,68,85,False,True,True,False,False,False,False,False
 1,28,111,False,False,True,True,True,False,False,False
 0,40,26,False,True,True,True,True,False,True,False
-0,8,20,False,False,True,True,True,False,False,False
 0,35,75,True,False,True,False,False,False,True,True
 0,5,64,False,False,True,False,False,False,True,False
 0,14,20,True,True,True,False,False,False,False,False
 0,6,50,True,False,True,False,False,True,False,False
 0,67,66,True,False,True,True,False,False,True,False
 1,63,84,True,False,True,False,False,True,False,False
-0,8,85,False,False,True,True,True,False,False,True
 0,5,54,False,False,True,True,False,False,False,False
 0,6,83,True,False,True,False,False,False,False,True
 0,49,94,True,False,True,True,False,False,True,False
 0,61,19,False,True,True,True,False,True,False,False
-0,1,70,False,False,True,True,False,False,True,True
 0,10,20,True,False,True,False,False,True,False,False
 0,72,117,False,False,True,True,False,True,False,False
 0,53,77,True,False,True,True,True,False,True,False
-0,9,70,True,False,True,False,False,True,False,False
 0,1,20,False,False,True,False,False,False,True,True
-0,4,20,True,False,True,False,False,True,False,False
 0,22,21,False,True,True,True,False,False,True,False
 0,34,100,True,False,True,True,True,False,False,True
 0,5,89,False,False,True,True,False,False,True,True
@@ -6606,19 +6337,15 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,26,60,False,True,True,False,False,False,False,True
 0,72,95,False,True,True,True,True,True,False,False
 1,56,112,False,False,True,True,True,False,False,True
-0,1,20,True,False,True,False,False,False,False,True
 0,17,103,True,False,True,False,False,True,False,False
 0,1,55,False,False,True,False,False,False,False,False
 0,68,86,True,True,True,False,True,False,False,False
 0,61,25,False,True,True,True,False,True,False,False
 0,11,40,False,False,False,False,True,False,False,False
-0,15,49,False,False,True,False,False,False,False,False
-0,1,19,True,False,True,False,False,False,True,False
 0,34,85,False,False,True,False,False,False,False,False
 0,72,24,True,False,True,True,True,False,False,False
 0,26,62,True,False,True,True,False,True,False,False
 0,66,95,True,False,True,True,True,False,False,False
-0,1,50,False,False,True,False,False,False,False,False
 0,64,85,False,False,True,False,True,False,False,False
 0,3,61,True,False,True,False,False,False,True,False
 0,20,20,False,False,True,True,False,False,False,False
@@ -6632,7 +6359,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,2,50,False,False,True,False,True,False,False,True
 1,4,95,False,False,True,True,False,False,False,True
 0,26,70,False,False,True,True,False,False,False,False
-0,3,30,True,False,False,True,True,False,False,False
 0,26,20,True,True,True,True,True,False,False,False
 0,15,39,False,False,False,False,False,True,False,False
 0,22,100,True,True,True,True,False,True,False,False
@@ -6641,7 +6367,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,20,54,True,False,True,False,True,True,False,False
 0,72,20,True,True,True,False,False,True,False,False
 1,34,100,True,False,True,False,False,False,False,False
-0,1,45,True,False,True,False,False,False,False,True
 0,52,21,False,False,True,False,True,False,False,False
 0,69,25,False,False,True,True,True,True,False,False
 0,39,20,False,False,True,False,False,False,False,False
@@ -6667,7 +6392,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,43,99,False,True,True,False,False,False,False,False
 0,58,108,False,False,True,True,False,False,False,False
 0,71,67,False,False,False,False,True,False,False,False
-0,22,95,True,False,True,True,True,False,False,False
 1,34,85,True,False,True,True,True,False,False,False
 1,52,73,True,False,True,True,False,False,True,False
 1,64,44,False,False,False,False,True,False,True,False
@@ -6675,9 +6399,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,13,45,True,True,True,False,False,False,False,False
 0,24,91,True,False,True,True,False,False,False,True
 0,70,115,True,True,True,True,False,True,False,False
-0,70,77,True,False,True,True,True,False,False,False
 1,1,85,False,False,True,False,False,False,False,True
-0,72,21,True,True,True,False,False,False,True,False
 0,11,76,False,False,True,False,False,False,True,True
 0,12,60,True,False,True,False,True,False,True,True
 0,72,111,True,False,True,True,True,False,False,False
@@ -6688,7 +6410,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,17,80,False,False,True,True,True,False,True,False
 0,71,25,False,True,True,True,True,False,False,False
 0,6,69,True,False,True,False,False,False,True,False
-0,24,20,False,True,True,True,True,True,False,False
 0,6,91,False,False,True,True,True,False,True,True
 0,47,19,False,True,True,False,False,True,False,False
 0,4,76,False,False,True,True,False,False,False,False
@@ -6702,18 +6423,15 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,3,45,True,False,True,True,True,False,True,False
 1,3,36,True,False,False,False,True,True,False,True
 0,32,84,True,True,True,False,True,False,False,False
-0,1,81,True,False,True,False,False,False,False,True
 0,55,104,True,False,True,True,True,True,False,True
 0,20,99,True,False,True,False,False,False,False,False
 0,22,20,True,True,True,False,False,False,False,False
 1,60,81,True,True,True,True,False,False,True,False
 1,27,88,False,False,True,True,True,False,False,True
-0,1,74,True,False,True,True,True,True,False,True
 0,4,94,False,False,True,False,False,True,False,True
 0,3,85,True,False,True,True,True,False,False,True
 1,12,29,True,False,False,False,True,False,False,False
 0,17,52,True,False,True,True,True,False,False,True
-0,48,20,False,True,True,True,True,False,False,False
 0,12,78,False,True,True,True,True,False,False,True
 0,45,25,False,True,True,True,True,False,False,False
 0,1,51,False,True,True,True,True,False,False,False
@@ -6740,7 +6458,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,11,56,False,False,True,False,False,False,False,False
 0,14,50,False,False,True,False,False,False,False,False
 0,21,80,True,True,True,False,True,False,False,False
-0,1,20,True,False,True,False,True,False,False,True
 0,59,25,True,False,True,False,False,False,True,False
 0,43,101,True,False,True,True,False,False,False,True
 0,7,39,True,True,False,True,True,True,False,False
@@ -6748,7 +6465,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,13,73,True,False,True,False,False,False,False,False
 0,3,30,False,True,False,False,False,True,False,False
 0,8,76,True,True,True,False,True,False,False,False
-0,1,70,False,False,True,True,False,True,False,True
 0,5,34,False,True,False,False,False,True,False,False
 0,19,24,True,True,True,False,False,False,True,False
 0,0,53,False,True,False,False,False,False,True,False
@@ -6761,7 +6477,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,69,93,False,True,True,True,True,True,False,False
 0,33,61,False,False,True,False,False,False,False,False
 0,24,51,True,False,True,False,False,False,False,False
-0,16,20,True,False,True,False,False,False,False,False
 0,39,20,False,True,True,True,False,True,False,False
 0,37,20,True,False,True,False,True,False,False,False
 0,71,91,False,True,True,True,False,False,True,False
@@ -6779,7 +6494,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 1,26,86,False,False,True,False,False,False,False,False
 0,30,100,True,False,True,False,False,False,True,False
 0,22,79,True,False,True,False,False,False,False,False
-0,72,90,False,True,True,False,False,False,False,False
 0,7,25,True,False,True,False,True,False,False,False
 1,66,111,False,True,True,False,False,False,False,False
 0,71,106,True,True,True,False,False,False,True,False
@@ -6787,7 +6501,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,15,103,True,False,True,True,True,False,True,False
 0,70,106,True,True,True,False,False,False,False,False
 0,55,85,False,True,True,True,True,False,False,False
-0,1,19,True,False,True,False,False,False,False,False
 0,63,102,True,False,True,False,False,False,False,False
 0,10,20,True,False,True,True,False,False,True,False
 1,3,74,False,False,True,False,False,False,False,False
@@ -6804,11 +6517,8 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,64,99,True,True,True,True,True,False,False,False
 0,72,84,False,True,True,True,True,True,False,False
 1,47,85,True,True,True,False,True,False,False,False
-0,1,20,True,False,True,True,True,True,False,True
-0,19,21,True,True,True,False,False,False,True,False
 0,6,49,False,False,True,False,False,False,True,True
 0,48,24,False,False,True,False,True,False,True,False
-0,1,20,False,False,True,True,True,False,False,False
 0,63,74,True,True,True,False,False,False,False,False
 0,8,75,True,False,True,False,False,False,False,True
 0,65,104,False,True,True,False,True,False,False,False
@@ -6822,7 +6532,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,70,110,False,True,True,True,True,False,False,False
 0,4,49,True,True,True,True,True,False,False,True
 0,46,103,False,False,True,False,True,False,False,False
-0,2,45,False,False,False,False,False,False,False,True
 0,65,70,True,True,True,True,True,False,False,False
 0,19,97,False,False,True,True,True,False,False,False
 0,21,62,True,False,True,False,False,False,False,False
@@ -6847,7 +6556,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,26,91,False,True,True,False,False,False,False,True
 0,59,18,False,False,True,True,True,False,False,False
 0,51,95,True,False,True,False,False,False,False,True
-0,1,85,True,False,True,False,False,False,False,True
 0,48,107,False,False,True,True,True,False,False,True
 0,70,81,False,True,True,True,False,False,True,False
 0,16,20,False,False,True,True,True,False,True,False
@@ -6860,7 +6568,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,72,106,True,False,True,True,True,False,False,False
 0,2,86,False,False,True,True,True,False,True,True
 0,56,86,True,False,True,True,True,False,False,False
-0,69,19,True,False,True,True,True,False,False,False
 0,9,45,True,False,True,True,True,False,False,True
 0,37,80,False,False,True,True,False,True,False,False
 0,51,56,False,False,False,False,False,False,False,False
@@ -6874,7 +6581,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,7,94,False,False,True,False,True,True,False,False
 0,54,80,True,True,True,True,False,False,True,False
 0,41,81,False,False,True,False,False,False,False,False
-0,63,109,False,False,True,False,False,False,True,False
 0,1,70,True,False,True,False,True,True,False,True
 0,59,100,True,True,True,False,True,False,False,False
 0,50,110,False,False,True,False,True,False,False,True
@@ -6905,7 +6611,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,18,56,True,False,True,True,False,True,False,False
 1,9,74,True,False,True,False,False,False,False,False
 1,48,117,False,False,True,False,False,False,False,True
-0,33,20,False,True,True,False,False,False,True,False
 0,27,102,False,False,True,False,True,False,False,False
 0,70,104,False,False,True,False,False,False,False,False
 0,17,20,False,False,True,False,False,False,False,False
@@ -6923,7 +6628,6 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,69,105,True,False,True,True,True,False,False,True
 0,52,98,False,True,True,False,True,False,False,False
 0,52,81,True,False,True,True,False,True,False,False
-0,24,20,False,False,True,False,True,False,False,False
 0,12,20,False,False,True,False,False,True,False,False
 0,1,44,False,True,True,False,True,False,False,True
 0,15,19,True,True,True,True,False,False,False,False
@@ -6935,9 +6639,7 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,17,87,True,False,True,False,True,False,False,False
 0,47,40,True,True,False,True,True,False,True,False
 1,63,108,True,False,True,True,True,False,True,False
-0,1,20,False,False,True,True,True,False,False,True
 0,70,66,False,True,True,False,False,False,False,False
-0,38,20,False,True,True,True,False,False,True,False
 0,58,24,False,True,True,False,True,True,False,False
 0,60,65,False,False,True,False,False,False,True,False
 0,68,88,False,False,True,False,False,True,False,False
@@ -6983,14 +6685,12 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,7,19,True,False,True,False,False,False,False,False
 0,72,109,True,False,True,False,False,False,True,False
 0,7,49,True,True,True,False,True,False,False,True
-0,1,45,True,False,True,False,False,False,False,False
 0,16,75,True,False,True,False,False,True,False,False
 0,14,60,False,True,True,True,True,False,False,False
 0,1,71,False,False,True,True,True,True,False,True
 0,60,44,False,False,False,True,False,False,False,False
 1,1,71,False,True,True,True,False,True,False,True
 1,45,75,True,False,True,False,True,False,False,False
-0,1,46,True,False,True,True,True,False,False,True
 0,72,109,False,False,True,True,True,True,False,True
 0,6,19,True,True,True,True,True,False,False,False
 0,1,55,True,False,True,True,False,True,False,False
@@ -7000,11 +6700,9 @@ SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,
 0,17,91,True,False,True,False,True,False,False,False
 0,8,44,False,False,True,False,False,False,False,False
 1,24,20,False,False,True,False,False,True,False,False
-0,11,20,True,False,True,False,False,False,False,False
 0,40,57,False,False,True,True,True,False,True,False
 0,36,25,True,True,True,False,False,False,False,False
 0,71,108,True,False,True,True,True,False,False,True
-0,7,19,True,False,True,False,False,True,False,False
 0,3,77,True,False,True,True,True,False,False,False
 0,38,20,False,False,True,False,False,False,True,False
 0,0,26,True,True,True,True,True,False,False,False

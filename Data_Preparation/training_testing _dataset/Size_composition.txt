@@ -1,0 +1,8 @@
+--- Train-Test Split Results ---
+Training Set Shape : X_train = (5392, 10), y_train = (5392,) (80.0%)
+Testing Set Shape  : X_test  = (1349, 10),  y_test  = (1349,)  (20.0%)
+
+--- Target Class Distribution (%) ---
+Overall Dataset : Churn Rate = 26.57%
+Training Set    : Churn Rate = 26.58%
+Testing Set     : Churn Rate = 26.54%

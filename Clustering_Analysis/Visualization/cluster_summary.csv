@@ -1,0 +1,4 @@
+Cluster,Customers,Percentage (%),SeniorCitizen,tenure,MonthlyCharges,gender_Male,Dependents_Yes,PhoneService_Yes,MultipleLines_Yes,InternetService_Fiber optic,Contract_One year,Contract_Two year
+0,673,9.98,-0.04,-0.04,-0.8,0.02,0.0,-3.0,-0.08,-0.0,0.04,-0.0
+1,2670,39.61,-0.01,0.03,0.08,0.04,0.03,0.33,0.42,1.13,-0.08,-0.24
+2,3398,50.41,0.02,-0.02,0.1,-0.03,-0.03,0.33,-0.31,-0.89,0.06,0.19
