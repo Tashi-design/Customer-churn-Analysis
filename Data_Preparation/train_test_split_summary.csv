@@ -1,5 +1,0 @@
-File,Rows,Columns,Description
-X_train,5634,10,80% feature training set
-Y_train,5634,1,80% target training set
-X_test,1409,10,20% feature testing set
-Y_test,1409,1,20% target testing set
